@@ -1,0 +1,40 @@
+{
+	"Id": "Loot 135 (10)6546062",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -153.539856,
+		"y": -8.923576,
+		"z": 73.07532
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 269.8601,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf386f7746330069f74",
+	"Items": [
+		{
+			"_id": "5eb3dcf386f7746330069f74",
+			"_tpl": "5448bd6b4bdc2dfc2f8b4569"
+		},
+		{
+			"_id": "5eb3dcf386f7746330069f75",
+			"_tpl": "5448c12b4bdc2d02308b456f",
+			"parentId": "5eb3dcf386f7746330069f74",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dcf386f7746330069f76",
+			"_tpl": "573719762459775a626ccbc1",
+			"parentId": "5eb3dcf386f7746330069f75",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 3
+			}
+		}
+	]
+}

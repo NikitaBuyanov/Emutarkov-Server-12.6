@@ -1,0 +1,25 @@
+{
+	"Id": "loot_grenade (85)4562956",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -204.458,
+		"y": -3.606,
+		"z": -370.319
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd8086f77413fe6aee48",
+	"Items": [
+		{
+			"_id": "5eb3dd8086f77413fe6aee48",
+			"_tpl": "5e32f56fcb6d5863cc5e5ee4"
+		}
+	]
+}

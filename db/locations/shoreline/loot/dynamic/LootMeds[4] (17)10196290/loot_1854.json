@@ -1,0 +1,28 @@
+{
+	"Id": "LootMeds[4] (17)10196290",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -220.467041,
+		"y": 0.101,
+		"z": -89.248
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 22.9383755,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f47f2dfcb75c1633e2bb",
+	"Items": [
+		{
+			"_id": "5ec3f47f2dfcb75c1633e2bb",
+			"_tpl": "5696686a4bdc2da3298b456a",
+			"upd": {
+				"StackObjectsCount": 50
+			}
+		}
+	]
+}

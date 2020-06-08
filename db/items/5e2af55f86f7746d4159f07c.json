@@ -1,0 +1,93 @@
+{
+	"_id": "5e2af55f86f7746d4159f07c",
+	"_name": "item_container_grenadebox",
+	"_parent": "5795f317245977243854e041",
+	"_type": "Item",
+	"_props": {
+		"Name": "item_container_grenadebox",
+		"ShortName": "item_container_grenadebox",
+		"Description": "item_container_grenadebox",
+		"Weight": 3,
+		"BackgroundColor": "blue",
+		"Width": 3,
+		"Height": 3,
+		"StackMaxSize": 1,
+		"Rarity": "Superrare",
+		"SpawnChance": 0.2,
+		"CreditsPrice": 510000,
+		"ItemSound": "container_plastic",
+		"Prefab": {
+			"path": "assets/content/items/containers/item_container_grenadebox/item_container_grenadebox.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": false,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 30,
+		"ExamineExperience": 10,
+		"HideEntrails": true,
+		"RepairCost": 0,
+		"RepairSpeed": 0,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": false,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"Grids": [
+			{
+				"_name": "main",
+				"_id": "5e2af55f86f7746d4159f07e",
+				"_parent": "5e2af55f86f7746d4159f07c",
+				"_props": {
+					"filters": [
+						{
+							"Filter": [
+								"5e2af51086f7746d3f3c3402",
+								"5656eb674bdc2d35148b457c",
+								"543be6564bdc2df4348b4568"
+							],
+							"ExcludedFilter": []
+						}
+					],
+					"cellsH": 8,
+					"cellsV": 8,
+					"minCount": 0,
+					"maxCount": 0,
+					"maxWeight": 0
+				},
+				"_proto": "55d329c24bdc2d892f8b4567"
+			}
+		],
+		"Slots": [],
+		"CanPutIntoDuringTheRaid": true,
+		"CantRemoveFromSlotsDuringRaid": [],
+		"TagColor": 0,
+		"TagName": ""
+	},
+	"_proto": "577e1c9d2459773cd707c525"
+}

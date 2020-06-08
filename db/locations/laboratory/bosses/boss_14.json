@@ -1,0 +1,14 @@
+{
+	"BossName": "pmcBot",
+	"BossChance": 45,
+	"BossZone": "BotZoneGate2",
+	"BossPlayer": false,
+	"BossDifficult": "normal",
+	"BossEscortType": "pmcBot",
+	"BossEscortDifficult": "normal",
+	"BossEscortAmount": "1,2,2,3,2,2,3",
+	"Time": -1,
+	"TriggerId": "autoId_00014_EXFIL",
+	"TriggerName": "interactObject",
+	"Delay": 8
+}

@@ -1,0 +1,80 @@
+{
+	"Id": "Loot_backpack (7)1685560",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -10.9730225,
+		"y": 8.604,
+		"z": 33.4084778
+	},
+	"Rotation": {
+		"x": 284.2526,
+		"y": 0.000008515955,
+		"z": -0.00001094959
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd3086f774633006b85f",
+	"Items": [
+		{
+			"_id": "5eb3dd3086f774633006b85f",
+			"_tpl": "544a5cde4bdc2d39388b456b"
+		},
+		{
+			"_id": "5eb3dd3086f774633006b860",
+			"_tpl": "5a33cae9c4a28232980eb086",
+			"parentId": "5eb3dd3086f774633006b85f",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3086f774633006b861",
+			"_tpl": "544fb37f4bdc2dee738b4567",
+			"parentId": "5eb3dd3086f774633006b85f",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3086f774633006b862",
+			"_tpl": "5448ff904bdc2d6f028b456e",
+			"parentId": "5eb3dd3086f774633006b85f",
+			"slotId": "main",
+			"location": {
+				"x": 3,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3086f774633006b863",
+			"_tpl": "57c44f4f2459772d2c627113",
+			"parentId": "5eb3dd3086f774633006b85f",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3086f774633006b864",
+			"_tpl": "5a6f5e048dc32e00094b97da",
+			"parentId": "5eb3dd3086f774633006b85f",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 1,
+				"r": 0
+			}
+		}
+	]
+}

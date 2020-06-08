@@ -1,0 +1,25 @@
+{
+	"Id": "loot_el_military_citizen (42)6542464",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -68.03583,
+		"y": -17.6645775,
+		"z": 145.2533
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 135.458725,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf986f77468595ae850",
+	"Items": [
+		{
+			"_id": "5eb3dcf986f77468595ae850",
+			"_tpl": "5c06782b86f77426df5407d2"
+		}
+	]
+}

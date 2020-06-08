@@ -1,0 +1,25 @@
+{
+	"Id": "loot_quest_00316934896",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 204.073,
+		"y": 4.8407,
+		"z": 12.3975
+	},
+	"Rotation": {
+		"x": 270,
+		"y": 25.69432,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0886f77468595af339",
+	"Items": [
+		{
+			"_id": "5eb3dd0886f77468595af339",
+			"_tpl": "5938188786f77474f723e87f"
+		}
+	]
+}

@@ -1,0 +1,101 @@
+{
+	"Id": "Lootable_00183",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd3286f77447365dbf88",
+	"Items": [
+		{
+			"_id": "5eb3dd3286f77447365dbf88",
+			"_tpl": "5909d7cf86f77470ee57d75a"
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf89",
+			"_tpl": "5cc9ad73d7f00c000e2579d4",
+			"parentId": "5eb3dd3286f77447365dbf88",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf8a",
+			"_tpl": "5448c12b4bdc2d02308b456f",
+			"parentId": "5eb3dd3286f77447365dbf88",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf8b",
+			"_tpl": "57f4c844245977379d5c14d1",
+			"parentId": "5eb3dd3286f77447365dbf88",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 1
+			}
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf8c",
+			"_tpl": "57d152ec245977144076ccdf",
+			"parentId": "5eb3dd3286f77447365dbf8b",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf8d",
+			"_tpl": "57d1519e24597714373db79d",
+			"parentId": "5eb3dd3286f77447365dbf8b",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf8e",
+			"_tpl": "573719762459775a626ccbc1",
+			"parentId": "5eb3dd3286f77447365dbf8d",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf8f",
+			"_tpl": "59db3acc86f7742a2c4ab912",
+			"parentId": "5eb3dd3286f77447365dbf88",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3286f77447365dbf90",
+			"_tpl": "5649af094bdc2df8348b4586",
+			"parentId": "5eb3dd3286f77447365dbf88",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 1
+			}
+		}
+	]
+}

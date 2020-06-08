@@ -1,0 +1,44 @@
+{
+	"Id": "LootAmmoBoxes (13)2294788",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 239.074,
+		"y": -1.591999,
+		"z": -71.752
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcfc86f7745ed711308f",
+	"Items": [
+		{
+			"_id": "5eb3dcfc86f7745ed711308f",
+			"_tpl": "57372deb245977685d4159b3"
+		},
+		{
+			"_id": "5eb3dcfc86f7745ed7113090",
+			"_tpl": "56dff338d2720bbd668b4569",
+			"parentId": "5eb3dcfc86f7745ed711308f",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "5eb3dcfc86f7745ed7113091",
+			"_tpl": "56dff338d2720bbd668b4569",
+			"parentId": "5eb3dcfc86f7745ed711308f",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"Name": "UN Roadblock",
+	"EntryPoints": "House,Houseb",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 10,
+	"PassageRequirement": "TransferItem",
+	"ExfiltrationType": "SharedTimer",
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"Id": "5449016a4bdc2d6f028b456f",
+	"RequirementTip": "Сотку должен",
+	"Count": 100
+}

@@ -1,0 +1,15 @@
+{
+	"Name": "Hole Exfill",
+	"EntryPoints": "MallSE,MallNW",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 10,
+	"PassageRequirement": "Empty",
+	"ExfiltrationType": "Individual",
+	"RequiredSlot": "Backpack",
+	"Id": "",
+	"RequirementTip": "EXFIL_INTERCHANGE_HOLE_TIP",
+	"Count": 0
+}

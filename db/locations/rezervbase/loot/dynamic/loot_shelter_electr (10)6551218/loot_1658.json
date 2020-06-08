@@ -1,0 +1,25 @@
+{
+	"Id": "loot_shelter_electr (10)6551218",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -165.923645,
+		"y": -9.007,
+		"z": 31.7849121
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd1086f77457e636408e",
+	"Items": [
+		{
+			"_id": "5eb3dd1086f77457e636408e",
+			"_tpl": "5d1c774f86f7746d6620f8db"
+		}
+	]
+}

@@ -1,0 +1,98 @@
+{
+	"Enabled": true,
+	"Locked": false,
+	"Insurance": true,
+	"SafeLocation": false,
+	"Name": "Shoreline",
+	"Description": "The coastline that leads to the port.",
+	"Scene": {
+		"path": "maps/shoreline_preset.bundle",
+		"rcid": "shoreline.scenespreset.asset"
+	},
+	"Area": 0,
+	"RequiredPlayerLevel": 0,
+	"surv_gather_minutes": 1,
+	"MinPlayers": 10,
+	"MaxPlayers": 13,
+	"sav_gather_minutes": 1,
+	"exit_count": 1,
+	"exit_access_time": 10,
+	"exit_time": 90,
+	"Preview": {
+		"path": "",
+		"rcid": ""
+	},
+	"IconX": 238,
+	"IconY": 85,
+	"filter_ex": [],
+	"waves": [],
+	"limits": [],
+	"AveragePlayTime": 35,
+	"AveragePlayerLevel": 25,
+	"escape_time_limit": 50,
+	"Rules": "Normal",
+	"IsSecret": false,
+	"doors": [],
+	"tmp_location_field_remove_me": 0,
+	"MinDistToExitPoint": 30,
+	"MaxDistToFreePoint": 1200,
+	"MinDistToFreePoint": 80,
+	"MaxBotPerZone": 5,
+	"OpenZones": "ZoneSanatorium,ZonePassFar,ZonePassClose,ZoneTunnel,ZoneStartVillage,ZoneBunker",
+	"OcculsionCullingEnabled": true,
+	"GlobalLootChanceModifier": 0.3,
+	"OldSpawn": true,
+	"NewSpawn": false,
+	"BotMax": 0,
+	"BotStart": 0,
+	"BotStop": 0,
+	"BotMaxTimePlayer": 0,
+	"BotSpawnTimeOnMin": 0,
+	"BotSpawnTimeOnMax": 0,
+	"BotSpawnTimeOffMin": 0,
+	"BotSpawnTimeOffMax": 0,
+	"BotMaxPlayer": 0,
+	"BotEasy": 0,
+	"BotNormal": 0,
+	"BotHard": 0,
+	"BotImpossible": 0,
+	"BotAssault": 0,
+	"BotMarksman": 0,
+	"DisabledScavExits": "",
+	"AccessKeys": [],
+	"MinMaxBots": [],
+	"BotLocationModifier": {
+		"AccuracySpeed": 1,
+		"Scattering": 0.8,
+		"GainSight": 1.1,
+		"MarksmanAccuratyCoef": 1,
+		"VisibleDistance": 1.2,
+		"DistToSleep": 300,
+		"DistToActivate": 260,
+		"MagnetPower": 40,
+		"DistToPersueAxemanCoef": 0.7
+	},
+	"exits": [],
+	"DisabledForScav": false,
+	"Id": "Shoreline",
+	"_Id": "5704e554d2720bac5b8b456e",
+	"Loot": [],
+	"SpawnAreas": [],
+	"Banners": [
+		{
+			"id": "5807c3f124597746bf2db2ce",
+			"pic": {
+				"path": "CONTENT/banners/banner_scav.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5c1b857086f77465f465faa4",
+			"pic": {
+				"path": "CONTENT/banners/banner_scavraider.jpg",
+				"rcid": ""
+			}
+		}
+	],
+	"BossLocationSpawn": []
+}

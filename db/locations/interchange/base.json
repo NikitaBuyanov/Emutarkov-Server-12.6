@@ -1,0 +1,95 @@
+{
+	"Enabled": true,
+	"Locked": false,
+	"Insurance": true,
+	"SafeLocation": false,
+	"Name": "Interchange",
+	"Description": "The South-Eastern highway interchange is a critical point in the transportation system of the city. Essentially, it is a strategical node connecting the port and harbour infrastructure with the industrial outskirts of Tarkov. ",
+	"Scene": {
+		"path": "maps/shopping_mall.bundle",
+		"rcid": "Shopping_Mall.ScenesPreset.asset"
+	},
+	"Area": 0,
+	"RequiredPlayerLevel": 0,
+	"surv_gather_minutes": 1,
+	"MinPlayers": 10,
+	"MaxPlayers": 14,
+	"sav_gather_minutes": 1,
+	"exit_count": 2,
+	"exit_access_time": 60,
+	"exit_time": 90,
+	"Preview": {
+		"path": "",
+		"rcid": ""
+	},
+	"IconX": 506,
+	"IconY": 503,
+	"filter_ex": [],
+	"waves": [],
+	"limits": [],
+	"AveragePlayTime": 35,
+	"AveragePlayerLevel": 25,
+	"escape_time_limit": 45,
+	"Rules": "Normal",
+	"IsSecret": false,
+	"doors": [],
+	"tmp_location_field_remove_me": 0,
+	"MinDistToExitPoint": 30,
+	"MaxDistToFreePoint": 200,
+	"MinDistToFreePoint": 50,
+	"MaxBotPerZone": 2,
+	"OpenZones": "ZoneIDEA,ZoneRoad,ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneOLIPark,ZoneGoshan,ZonePowerStation,ZoneTrucks,ZoneIDEAPark",
+	"OcculsionCullingEnabled": true,
+	"GlobalLootChanceModifier": 0.5,
+	"OldSpawn": false,
+	"NewSpawn": true,
+	"BotMax": 10,
+	"BotStart": 20,
+	"BotStop": 3400,
+	"BotMaxTimePlayer": 2000,
+	"BotSpawnTimeOnMin": 180,
+	"BotSpawnTimeOnMax": 220,
+	"BotSpawnTimeOffMin": 30,
+	"BotSpawnTimeOffMax": 40,
+	"BotMaxPlayer": 7,
+	"BotEasy": 10,
+	"BotNormal": 50,
+	"BotHard": 40,
+	"BotImpossible": 0,
+	"BotAssault": 100,
+	"BotMarksman": 0,
+	"DisabledScavExits": "scav_NW,scav_SE",
+	"AccessKeys": [],
+	"MinMaxBots": [],
+	"BotLocationModifier": {
+		"AccuracySpeed": 1,
+		"Scattering": 1,
+		"GainSight": 1,
+		"MarksmanAccuratyCoef": 1,
+		"VisibleDistance": 1,
+		"DistToPersueAxemanCoef": 0.7
+	},
+	"exits": [],
+	"DisabledForScav": false,
+	"BossLocationSpawn": [],
+	"Id": "Interchange",
+	"_Id": "5714dbc024597771384a510d",
+	"Loot": [],
+	"SpawnAreas": [],
+	"Banners": [
+		{
+			"id": "5464e0404bdc2d2a708b4567",
+			"pic": {
+				"path": "CONTENT/banners/banner_usec.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5c1b857086f77465f465faa4",
+			"pic": {
+				"path": "CONTENT/banners/banner_scavraider.jpg",
+				"rcid": ""
+			}
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"Id": "loot_case_feld6935616",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 239.183,
+		"y": 0.713,
+		"z": 160.595
+	},
+	"Rotation": {
+		"x": 88.61195,
+		"y": 270.000122,
+		"z": 0.00007048267
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0886f77468595af32a",
+	"Items": [
+		{
+			"_id": "5eb3dd0886f77468595af32a",
+			"_tpl": "5910922b86f7747d96753483"
+		},
+		{
+			"_id": "5eb3dd0886f77468595af32b",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd0886f77468595af32a",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 1103
+			}
+		}
+	]
+}

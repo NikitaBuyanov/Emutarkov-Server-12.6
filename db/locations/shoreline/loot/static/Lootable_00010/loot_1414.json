@@ -1,0 +1,172 @@
+{
+	"Id": "Lootable_00010",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f46f4782e749ea3f81b4",
+	"Items": [
+		{
+			"_id": "5ec3f46f4782e749ea3f81b4",
+			"_tpl": "5909d89086f77472591234a0"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81b5",
+			"_tpl": "59e6152586f77473dc057aa1",
+			"parentId": "5ec3f46f4782e749ea3f81b4",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81b6",
+			"_tpl": "59e649f986f77411d949b246",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81bd",
+			"_tpl": "59e6284f86f77440d569536f",
+			"parentId": "5ec3f46f4782e749ea3f81b6",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81b7",
+			"_tpl": "59e61eb386f77440d64f5daf",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81b8",
+			"_tpl": "59e6318286f77444dd62c4cc",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81b9",
+			"_tpl": "59e6449086f7746c9f75e822",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81ba",
+			"_tpl": "59d650cf86f7741b846413a4",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81bb",
+			"_tpl": "59e6227d86f77440d64f5dc2",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81bc",
+			"_tpl": "59d625f086f774661516605d",
+			"parentId": "5ec3f46f4782e749ea3f81b5",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81be",
+			"_tpl": "5656d7c34bdc2d9d198b4587",
+			"parentId": "5ec3f46f4782e749ea3f81bc",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 29
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81bf",
+			"_tpl": "5c07c60e0db834002330051f",
+			"parentId": "5ec3f46f4782e749ea3f81b4",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": 0
+			},
+			"upd": {
+				"FireMode": {
+					"FireMode": "single"
+				}
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c0",
+			"_tpl": "5c0e2ff6d174af02a1659d4a",
+			"parentId": "5ec3f46f4782e749ea3f81bf",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c1",
+			"_tpl": "5aaa5e60e5b5b000140293d6",
+			"parentId": "5ec3f46f4782e749ea3f81bf",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c9",
+			"_tpl": "54527a984bdc2d4e668b4567",
+			"parentId": "5ec3f46f4782e749ea3f81c1",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 10
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c2",
+			"_tpl": "5c0e2f26d174af02a9625114",
+			"parentId": "5ec3f46f4782e749ea3f81bf",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c3",
+			"_tpl": "5c0e2f94d174af029f650d56",
+			"parentId": "5ec3f46f4782e749ea3f81c2",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c4",
+			"_tpl": "5c0fafb6d174af02a96260ba",
+			"parentId": "5ec3f46f4782e749ea3f81c3",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c5",
+			"_tpl": "5ae30e795acfc408fb139a0b",
+			"parentId": "5ec3f46f4782e749ea3f81c3",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c6",
+			"_tpl": "5c0e2f5cd174af02a012cfc9",
+			"parentId": "5ec3f46f4782e749ea3f81c2",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c7",
+			"_tpl": "5649be884bdc2d79388b4577",
+			"parentId": "5ec3f46f4782e749ea3f81bf",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f81c8",
+			"_tpl": "5c0faf68d174af02a96260b8",
+			"parentId": "5ec3f46f4782e749ea3f81bf",
+			"slotId": "mod_charge"
+		}
+	]
+}

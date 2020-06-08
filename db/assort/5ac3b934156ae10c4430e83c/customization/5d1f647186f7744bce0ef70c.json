@@ -1,0 +1,20 @@
+{
+	"_id": "5d1f66f686f7744bcb0ae328",
+	"tid": "5ac3b934156ae10c4430e83c",
+	"suiteId": "5d1f647186f7744bce0ef70c",
+	"isActive": true,
+	"requirements": {
+		"loyaltyLevel": 1,
+		"profileLevel": 7,
+		"standing": 0,
+		"skillRequirements": [],
+		"questRequirements": [],
+		"itemRequirements": [
+			{
+				"count": 30000,
+				"_tpl": "5449016a4bdc2d6f028b456f",
+				"onlyFunctional": true
+			}
+		]
+	}
+}

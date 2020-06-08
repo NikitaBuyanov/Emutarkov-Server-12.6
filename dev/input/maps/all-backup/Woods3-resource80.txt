@@ -1,0 +1,7787 @@
+{
+  "BackendUrl": "https://prod-stage.escapefromtarkov.com",
+  "Location": {
+    "Enabled": true,
+    "Locked": false,
+    "Insurance": true,
+    "SafeLocation": false,
+    "Name": "Woods",
+    "Description": "The Priozersk Natural Reserve was recently included into the list of state-protected wildlife reserves of the North-Western Federal District.",
+    "Scene": {
+      "path": "maps/woods_preset.bundle",
+      "rcid": "woods.scenespreset.asset"
+    },
+    "Area": 0,
+    "RequiredPlayerLevel": 0,
+    "surv_gather_minutes": 1,
+    "MinPlayers": 8,
+    "MaxPlayers": 12,
+    "sav_gather_minutes": 1,
+    "exit_count": 1,
+    "exit_access_time": 10,
+    "exit_time": 90,
+    "Preview": {
+      "path": "",
+      "rcid": ""
+    },
+    "IconX": 252,
+    "IconY": 463,
+    "filter_ex": [],
+    "waves": [
+      {
+        "number": 0,
+        "time_min": 55,
+        "time_max": 100,
+        "slots_min": 1,
+        "slots_max": 2,
+        "SpawnPoints": "ZoneWoodCutter",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 1,
+        "time_min": 120,
+        "time_max": 125,
+        "slots_min": 0,
+        "slots_max": 2,
+        "SpawnPoints": "ZoneHouse",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 2,
+        "time_min": 288,
+        "time_max": 499,
+        "slots_min": 0,
+        "slots_max": 2,
+        "SpawnPoints": "ZoneWoodCutter",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 3,
+        "time_min": 400,
+        "time_max": 700,
+        "slots_min": 1,
+        "slots_max": 2,
+        "SpawnPoints": "ZoneHouse",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 4,
+        "time_min": 700,
+        "time_max": 800,
+        "slots_min": 0,
+        "slots_max": 0,
+        "SpawnPoints": "ZoneWoodCutter",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 5,
+        "time_min": 800,
+        "time_max": 1000,
+        "slots_min": 1,
+        "slots_max": 0,
+        "SpawnPoints": "ZoneHouse",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 6,
+        "time_min": 1000,
+        "time_max": 1300,
+        "slots_min": 0,
+        "slots_max": 0,
+        "SpawnPoints": "ZoneWoodCutter",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 7,
+        "time_min": 30,
+        "time_max": 60,
+        "slots_min": 0,
+        "slots_max": 0,
+        "SpawnPoints": "ZoneBigRocks",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 8,
+        "time_min": 0,
+        "time_max": 9,
+        "slots_min": 0,
+        "slots_max": 0,
+        "SpawnPoints": "ZoneRoad",
+        "BotSide": "Savage",
+        "BotPreset": "easy",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 9,
+        "time_min": 20,
+        "time_max": 31,
+        "slots_min": 1,
+        "slots_max": 1,
+        "SpawnPoints": "ZoneHighRocks",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "marksman",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 140,
+        "time_max": 160,
+        "slots_min": 0,
+        "slots_max": 1,
+        "SpawnPoints": "ZoneMiniHouse",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 350,
+        "time_max": 400,
+        "slots_min": 0,
+        "slots_max": 1,
+        "SpawnPoints": "ZoneBigRocks",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 180,
+        "time_max": 250,
+        "slots_min": 0,
+        "slots_max": 3,
+        "SpawnPoints": "ZoneRoad",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 0,
+        "time_max": 120,
+        "slots_min": 0,
+        "slots_max": 3,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "easy",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 150,
+        "time_max": 180,
+        "slots_min": 0,
+        "slots_max": 5,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 180,
+        "time_max": 210,
+        "slots_min": 1,
+        "slots_max": 5,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 400,
+        "time_max": 600,
+        "slots_min": 1,
+        "slots_max": 5,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "easy",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 600,
+        "time_max": 800,
+        "slots_min": 1,
+        "slots_max": 4,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 900,
+        "time_max": 1100,
+        "slots_min": 0,
+        "slots_max": 5,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "hard",
+        "WildSpawnType": "assault",
+        "isPlayers": true,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 400,
+        "time_max": 420,
+        "slots_min": 0,
+        "slots_max": 5,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      },
+      {
+        "number": 0,
+        "time_min": 0,
+        "time_max": 15,
+        "slots_min": 1,
+        "slots_max": 4,
+        "SpawnPoints": "",
+        "BotSide": "Savage",
+        "BotPreset": "normal",
+        "WildSpawnType": "assault",
+        "isPlayers": false,
+        "OpenZones": ""
+      }
+    ],
+    "limits": [],
+    "AveragePlayTime": 25,
+    "AveragePlayerLevel": 15,
+    "escape_time_limit": 40,
+    "Rules": "Normal",
+    "IsSecret": false,
+    "doors": [],
+    "tmp_location_field_remove_me": 0,
+    "MinDistToExitPoint": 30,
+    "MaxDistToFreePoint": 550,
+    "MinDistToFreePoint": 120,
+    "MaxBotPerZone": 5,
+    "OpenZones": "ZoneRedHouse,ZoneHighRocks,ZoneWoodCutter,ZoneHouse,ZoneBigRocks,ZoneRoad,ZoneMiniHouse,",
+    "OcculsionCullingEnabled": false,
+    "GlobalLootChanceModifier": 1,
+    "OldSpawn": true,
+    "NewSpawn": false,
+    "BotMax": 0,
+    "BotStart": 0,
+    "BotStop": 0,
+    "BotMaxTimePlayer": 0,
+    "BotSpawnTimeOnMin": 0,
+    "BotSpawnTimeOnMax": 0,
+    "BotSpawnTimeOffMin": 0,
+    "BotSpawnTimeOffMax": 0,
+    "BotMaxPlayer": 0,
+    "BotEasy": 0,
+    "BotNormal": 0,
+    "BotHard": 0,
+    "BotImpossible": 0,
+    "BotAssault": 0,
+    "BotMarksman": 0,
+    "DisabledScavExits": "",
+    "AccessKeys": [],
+    "MinMaxBots": [],
+    "BotLocationModifier": {
+      "AccuracySpeed": 1,
+      "Scattering": 1,
+      "GainSight": 1,
+      "MarksmanAccuratyCoef": 1,
+      "VisibleDistance": 1,
+      "MagnetPower": 44,
+      "DistToSleep": 300,
+      "DistToActivate": 265,
+      "DistToPersueAxemanCoef": 0.7
+    },
+    "exits": [
+      {
+        "Name": "ZB-016",
+        "EntryPoints": "House",
+        "Chance": 66,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 8,
+        "PassageRequirement": "None",
+        "ExfiltrationType": "Individual",
+        "Id": "",
+        "Count": 0,
+        "RequirementTip": ""
+      },
+      {
+        "Name": "Outskirts",
+        "EntryPoints": "Old Station",
+        "Chance": 100,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 8,
+        "PassageRequirement": "None",
+        "ExfiltrationType": "Individual",
+        "Id": "",
+        "Count": 0,
+        "RequirementTip": ""
+      },
+      {
+        "Name": "UN Roadblock",
+        "EntryPoints": "House",
+        "Chance": 100,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 8,
+        "PassageRequirement": "None",
+        "ExfiltrationType": "Individual",
+        "Id": "",
+        "Count": 0,
+        "RequirementTip": ""
+      },
+      {
+        "Name": "RUAF Gate",
+        "EntryPoints": "House",
+        "Chance": 66,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 8,
+        "PassageRequirement": "None",
+        "ExfiltrationType": "Individual",
+        "Id": "",
+        "Count": 0,
+        "RequirementTip": ""
+      },
+      {
+        "Name": "ZB-014",
+        "EntryPoints": "Old Station",
+        "Chance": 66,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 8,
+        "PassageRequirement": "None",
+        "ExfiltrationType": "Individual",
+        "Id": "",
+        "Count": 0,
+        "RequirementTip": ""
+      },
+      {
+        "Name": "South V-Ex",
+        "EntryPoints": "House,Old Station",
+        "Chance": 66,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 4,
+        "ExfiltrationTime": 60,
+        "PassageRequirement": "TransferItem",
+        "ExfiltrationType": "SharedTimer",
+        "Id": "5449016a4bdc2d6f028b456f",
+        "Count": 3000,
+        "RequirementTip": "EXFIL_Item"
+      },
+      {
+        "Name": "Alpinist",
+        "EntryPoints": "House,Old Station",
+        "Chance": 100,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 8,
+        "PassageRequirement": "Reference",
+        "ExfiltrationType": "Individual",
+        "Id": "Alpinist",
+        "Count": 0,
+        "RequirementTip": ""
+      },
+      {
+        "Name": "Factory Gate",
+        "EntryPoints": "House,Old Station",
+        "Chance": 100,
+        "MinTime": 0,
+        "MaxTime": 0,
+        "PlayersCount": 0,
+        "ExfiltrationTime": 20,
+        "PassageRequirement": "ScavCooperation",
+        "ExfiltrationType": "SharedTimer",
+        "Id": "",
+        "Count": 0,
+        "RequirementTip": "EXFIL_Cooperate"
+      }
+    ],
+    "DisabledForScav": false,
+    "BossLocationSpawn": [
+      {
+        "BossName": "bossKojaniy",
+        "BossChance": 35,
+        "BossZone": "ZoneWoodCutter",
+        "BossPlayer": false,
+        "BossDifficult": "normal",
+        "BossEscortType": "followerKojaniy",
+        "BossEscortDifficult": "normal",
+        "BossEscortAmount": "2",
+        "Time": 1
+      }
+    ],
+    "Id": "Woods",
+    "_Id": "5704e3c2d2720bac5b8b4567",
+    "Loot": [
+      {
+        "Id": "blood_probe2302488",
+        "IsStatic": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": -94.25195,
+          "y": -15.702,
+          "z": 218.992981
+        },
+        "Rotation": {
+          "x": 274.4269,
+          "y": 180,
+          "z": 180
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287bd",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287bd",
+            "_tpl": "5a687e7886f7740c4a5133fb"
+          }
+        ]
+      },
+      {
+        "Id": "controller_wood_car32300670",
+        "IsStatic": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": 233.843018,
+          "y": -1.235,
+          "z": -71.10199
+        },
+        "Rotation": {
+          "x": 1.05227029,
+          "y": 246.741547,
+          "z": 89.4343262
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287be",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287be",
+            "_tpl": "5af04c0b86f774138708f78e"
+          }
+        ]
+      },
+      {
+        "Id": "giroscope22285206",
+        "IsStatic": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": 56.7209473,
+          "y": -1.791,
+          "z": -50.2489929
+        },
+        "Rotation": {
+          "x": 272.717346,
+          "y": 297.500916,
+          "z": 62.4726944
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287bf",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287bf",
+            "_tpl": "5af04e0a86f7743a532b79e2"
+          }
+        ]
+      },
+      {
+        "Id": "huntsman_001_message2284354",
+        "IsStatic": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": -257.1476,
+          "y": 8.518,
+          "z": 7.9998
+        },
+        "Rotation": {
+          "x": 358.7371,
+          "y": 260.537354,
+          "z": 180.210419
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c0",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c0",
+            "_tpl": "5d3ec50586f774183a607442"
+          }
+        ]
+      },
+      {
+        "Id": "loot_case_00522293858",
+        "IsStatic": false,
+        "useGravity": false,
+        "randomRotation": false,
+        "Position": {
+          "x": -3.322,
+          "y": -1.4843,
+          "z": -81.1259
+        },
+        "Rotation": {
+          "x": 270,
+          "y": 14.9999733,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c1",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c1",
+            "_tpl": "5938878586f7741b797c562f"
+          }
+        ]
+      },
+      {
+        "Id": "loot_shelter_building_items (16)2293966",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": true,
+        "Position": {
+          "x": -391.032227,
+          "y": 3.5036757,
+          "z": 23.885994
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c2",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c2",
+            "_tpl": "5d1c774f86f7746d6620f8db"
+          }
+        ]
+      },
+      {
+        "Id": "loot_shelter_building_items (19)2297416",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": true,
+        "Position": {
+          "x": -386.683228,
+          "y": 3.46267581,
+          "z": 14.4929934
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c3",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c3",
+            "_tpl": "5d1b327086f7742525194449"
+          }
+        ]
+      },
+      {
+        "Id": "loot_shelter_building_items (20)2281724",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": true,
+        "Position": {
+          "x": -387.285217,
+          "y": 3.5036757,
+          "z": 13.1959934
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c4",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c4",
+            "_tpl": "5d1b371186f774253763a656"
+          }
+        ]
+      },
+      {
+        "Id": "loot_shelter_building_items (4)2297328",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": true,
+        "Position": {
+          "x": 140.159,
+          "y": -10.45,
+          "z": 35.3659973
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c5",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c5",
+            "_tpl": "5d1b371186f774253763a656"
+          }
+        ]
+      },
+      {
+        "Id": "loot_shelter_building_items (6)2299736",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": true,
+        "Position": {
+          "x": 445.883759,
+          "y": -13.8483238,
+          "z": 63.7689972
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c6",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c6",
+            "_tpl": "5d1b385e86f774252167b98a"
+          }
+        ]
+      },
+      {
+        "Id": "LootCamping (13)2290710",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -217.71701,
+          "y": 24.9140015,
+          "z": -117.484
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c7",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c7",
+            "_tpl": "57347b8b24597737dd42e192"
+          }
+        ]
+      },
+      {
+        "Id": "LootCamping (16)2306742",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -218.001,
+          "y": 24.647,
+          "z": -114.094
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c8",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c8",
+            "_tpl": "57347d5f245977448b40fa81"
+          }
+        ]
+      },
+      {
+        "Id": "LootCamping (7)2290476",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 133.819,
+          "y": -3.34399986,
+          "z": 98.953
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287c9",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287c9",
+            "_tpl": "590c5d4b86f774784e1b9c45"
+          }
+        ]
+      },
+      {
+        "Id": "LootCamping2298760",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 130.311,
+          "y": -3.12300014,
+          "z": 101.031
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287ca",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287ca",
+            "_tpl": "57347b8b24597737dd42e192"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (1)2283054",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -136.894012,
+          "y": -0.962999344,
+          "z": 415.089
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287cb",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287cb",
+            "_tpl": "5751435d24597720a27126d1"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (10)2299682",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -1.6539917,
+          "y": -0.4260006,
+          "z": -70.225
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287cc",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287cc",
+            "_tpl": "5751487e245977207e26a315"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (11)2291214",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -1.44198608,
+          "y": -0.4260006,
+          "z": -70.262
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287cd",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287cd",
+            "_tpl": "57347d7224597744596b4e72"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (12)2301462",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -1.88800049,
+          "y": -0.4260006,
+          "z": -70.124
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287ce",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287ce",
+            "_tpl": "57347da92459774491567cf5"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (22)2292486",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -1.64599609,
+          "y": -0.475000381,
+          "z": -81.488
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287cf",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287cf",
+            "_tpl": "57347d692459774491567cf1"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (24)2287962",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -1.04699707,
+          "y": 0.165000916,
+          "z": -81.5170059
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d0",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d0",
+            "_tpl": "575062b524597720a31c09a1"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (27)2288874",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -25.9710083,
+          "y": -2.658,
+          "z": 47.508
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d1",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d1",
+            "_tpl": "57347d90245977448f7b7f65"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (29)2307306",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -26.4129944,
+          "y": -2.18700027,
+          "z": 47.688
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d2",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d2",
+            "_tpl": "5734773724597737fd047c14"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (30)2298124",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -23.6799927,
+          "y": -2.047001,
+          "z": 44.459
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d3",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d3",
+            "_tpl": "5751435d24597720a27126d1"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (34)2299258",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 245.827,
+          "y": -7.47100067,
+          "z": 123.241
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 216.919815,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d4",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d4",
+            "_tpl": "57347d8724597744596b4e76"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (4)2293324",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -96.57999,
+          "y": -15.321,
+          "z": 219.245
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d5",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d5",
+            "_tpl": "5673de654bdc2d180f8b456d"
+          }
+        ]
+      },
+      {
+        "Id": "LootFood (7)2298556",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -96.20798,
+          "y": -15.321,
+          "z": 219.432
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d6",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d6",
+            "_tpl": "57513f07245977207e26a311"
+          }
+        ]
+      },
+      {
+        "Id": "LootGarbage (11)2299240",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -246.669037,
+          "y": 1.77199936,
+          "z": 388.753
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d7",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d7",
+            "_tpl": "573476d324597737da2adc13"
+          }
+        ]
+      },
+      {
+        "Id": "LootGarbage (12)2285740",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -246.720978,
+          "y": 1.77199936,
+          "z": 389.005
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d8",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d8",
+            "_tpl": "573476f124597737e04bf328"
+          }
+        ]
+      },
+      {
+        "Id": "LootGarbage (2)2286230",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -404.228973,
+          "y": -0.673000336,
+          "z": 312.087
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287d9",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287d9",
+            "_tpl": "573475fb24597737fb1379e1"
+          }
+        ]
+      },
+      {
+        "Id": "LootGarbage (20)2299856",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 412.376,
+          "y": -12.903,
+          "z": 241.321014
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287da",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287da",
+            "_tpl": "56742c2e4bdc2d95058b456d"
+          }
+        ]
+      },
+      {
+        "Id": "LootGarbage (29)2290068",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -179.426971,
+          "y": 0.04260063,
+          "z": 382.839
+        },
+        "Rotation": {
+          "x": 53.8408127,
+          "y": 333.162018,
+          "z": 40.6831741
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287db",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287db",
+            "_tpl": "5448ff904bdc2d6f028b456e"
+          }
+        ]
+      },
+      {
+        "Id": "LootMedsGlassesKnifeTool (4)2287028",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 81.733,
+          "y": -1.09000015,
+          "z": -38.223
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287dc",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287dc",
+            "_tpl": "590c2c9c86f774245b1f03f2"
+          }
+        ]
+      },
+      {
+        "Id": "LootMod (4)2296314",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 52.046,
+          "y": -2.272,
+          "z": -8.816
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287dd",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287dd",
+            "_tpl": "5cc9ad73d7f00c000e2579d4"
+          }
+        ]
+      },
+      {
+        "Id": "LootMod2297262",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 52.701,
+          "y": -2.246,
+          "z": -8.116
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287de",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287de",
+            "_tpl": "59e5d83b86f7745aed03d262"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (10)2293330",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 194.064,
+          "y": -14.446,
+          "z": 260.348
+        },
+        "Rotation": {
+          "x": 348.692017,
+          "y": 313.650665,
+          "z": 27.7440834
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287df",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287df",
+            "_tpl": "5734773724597737fd047c14"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (11)2291112",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 195.789,
+          "y": 0.695,
+          "z": -7.131
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e0",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e0",
+            "_tpl": "5b4335ba86f7744d2837a264"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (12)2281772",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 196.352,
+          "y": 0.695,
+          "z": -6.981
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 168.218216,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e1",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e1",
+            "_tpl": "590a3b0486f7743954552bdb"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (13)2305740",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 195.867,
+          "y": 0.893,
+          "z": -6.8
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 168.218216,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e2",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e2",
+            "_tpl": "5d02797c86f774203f38e30a"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (15)2301834",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -297.567,
+          "y": 12.529,
+          "z": -65.771
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e3",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e3",
+            "_tpl": "5734781f24597737e04bf32a"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (16)2289264",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": -287.05,
+          "y": 12.529,
+          "z": -69.55
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e4",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e4",
+            "_tpl": "59e3577886f774176a362503"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (7)2287824",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 115.514008,
+          "y": -2.823,
+          "z": 10.0660019
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e5",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e5",
+            "_tpl": "57347d5f245977448b40fa81"
+          }
+        ]
+      },
+      {
+        "Id": "LootTool 3 (8)2284084",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 115.247009,
+          "y": -2.68900013,
+          "z": 9.114998
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e6",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e6",
+            "_tpl": "544fb6cc4bdc2d34748b456e"
+          }
+        ]
+      },
+      {
+        "Id": "LootWeaponMod (1)2304312",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 242.598,
+          "y": -7.561,
+          "z": 122.104
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e7",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e7",
+            "_tpl": "57fd23e32459772d0805bcf1"
+          }
+        ]
+      },
+      {
+        "Id": "LootWeaponMod (4)2282012",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 242.408,
+          "y": -1.24699974,
+          "z": -69.487
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e8",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e8",
+            "_tpl": "587de5ba2459771c0f1e8a58"
+          }
+        ]
+      },
+      {
+        "Id": "LootWeaponMod (6)2289870",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 55.9660034,
+          "y": -1.93000031,
+          "z": -48.795
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287e9",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287e9",
+            "_tpl": "588226ef24597767af46e39c"
+          }
+        ]
+      },
+      {
+        "Id": "LootWeaponMod (8)2297674",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 54.8500061,
+          "y": -1.93000031,
+          "z": -48.1149979
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287ea",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287ea",
+            "_tpl": "5a0d716f1526d8000d26b1e2"
+          }
+        ]
+      },
+      {
+        "Id": "LootWeaponMod (9)2289066",
+        "IsStatic": false,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 55.875,
+          "y": -1.93000031,
+          "z": -46.9959946
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287eb",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287eb",
+            "_tpl": "5d0a3e8cd7ad1a6f6a3d35bd"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00053",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287ec",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287ec",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27b86f77466494287ed",
+            "_tpl": "5d1b2fa286f77425227d1674",
+            "parentId": "5e68b27b86f77466494287ec",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287ee",
+            "_tpl": "5734770f24597738025ee254",
+            "parentId": "5e68b27b86f77466494287ec",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287ef",
+            "_tpl": "59e35ef086f7741777737012",
+            "parentId": "5e68b27b86f77466494287ec",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00052",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287f0",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287f0",
+            "_tpl": "578f8778245977358849a9b5"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00051",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287f1",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287f1",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f77466494287f2",
+            "_tpl": "57d14e1724597714010c3f4b",
+            "parentId": "5e68b27b86f77466494287f1",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287f3",
+            "_tpl": "591af28e86f77414a27a9e1d",
+            "parentId": "5e68b27b86f77466494287f1",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287f4",
+            "_tpl": "564ca99c4bdc2d16268b4589",
+            "parentId": "5e68b27b86f77466494287f1",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00050",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287f5",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287f5",
+            "_tpl": "578f8778245977358849a9b5"
+          },
+          {
+            "_id": "5e68b27b86f77466494287f6",
+            "_tpl": "57347b8b24597737dd42e192",
+            "parentId": "5e68b27b86f77466494287f5",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00049",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287f7",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287f7",
+            "_tpl": "578f8782245977354405a1e3"
+          },
+          {
+            "_id": "5e68b27b86f77466494287f8",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "5e68b27b86f77466494287f7",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 796
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287f9",
+            "_tpl": "569668774bdc2da2298b4568",
+            "parentId": "5e68b27b86f77466494287f7",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 36
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287fa",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "5e68b27b86f77466494287f7",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 733
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287fb",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "5e68b27b86f77466494287f7",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 806
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287fc",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "5e68b27b86f77466494287f7",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 1,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 995
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00048",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494287fd",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494287fd",
+            "_tpl": "5909d45286f77465a8136dc6"
+          },
+          {
+            "_id": "5e68b27b86f77466494287fe",
+            "_tpl": "5649ed104bdc2d3d1c8b458b",
+            "parentId": "5e68b27b86f77466494287fd",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f77466494287ff",
+            "_tpl": "5656d7c34bdc2d9d198b4587",
+            "parentId": "5e68b27b86f77466494287fe",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 30
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428800",
+            "_tpl": "560d5e524bdc2d25448b4571",
+            "parentId": "5e68b27b86f77466494287fd",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 8
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00063",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428801",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428801",
+            "_tpl": "5d07b91b86f7745a077a9432"
+          },
+          {
+            "_id": "5e68b27b86f7746649428802",
+            "_tpl": "5aafa857e5b5b00018480968",
+            "parentId": "5e68b27b86f7746649428801",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428803",
+            "_tpl": "5aaf8a0be5b5b00015693243",
+            "parentId": "5e68b27b86f7746649428802",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f774664942880a",
+            "_tpl": "58dd3ad986f77403051cba8f",
+            "parentId": "5e68b27b86f7746649428803",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 15
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428804",
+            "_tpl": "5aaf8e43e5b5b00015693246",
+            "parentId": "5e68b27b86f7746649428802",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "5e68b27b86f7746649428807",
+            "_tpl": "5ab24ef9e5b5b00fe93c9209",
+            "parentId": "5e68b27b86f7746649428804",
+            "slotId": "mod_mount"
+          },
+          {
+            "_id": "5e68b27b86f7746649428805",
+            "_tpl": "5aaf9d53e5b5b00015042a52",
+            "parentId": "5e68b27b86f7746649428802",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "5e68b27b86f7746649428808",
+            "_tpl": "5aafa1c2e5b5b00015042a56",
+            "parentId": "5e68b27b86f7746649428805",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "5e68b27b86f7746649428809",
+            "_tpl": "5aafa49ae5b5b00015042a58",
+            "parentId": "5e68b27b86f7746649428808",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "5e68b27b86f7746649428806",
+            "_tpl": "5abcbb20d8ce87001773e258",
+            "parentId": "5e68b27b86f7746649428802",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "5e68b27b86f774664942880b",
+            "_tpl": "5af0484c86f7740f02001f7f",
+            "parentId": "5e68b27b86f7746649428801",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942880c",
+            "_tpl": "58948c8e86f77409493f7266",
+            "parentId": "5e68b27b86f7746649428801",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 2,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942880d",
+            "_tpl": "5894a51286f77426d13baf02",
+            "parentId": "5e68b27b86f774664942880c",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "5e68b27b86f774664942880e",
+            "_tpl": "5894a05586f774094708ef75",
+            "parentId": "5e68b27b86f774664942880c",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f774664942881a",
+            "_tpl": "58864a4f2459770fcc257101",
+            "parentId": "5e68b27b86f774664942880e",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 14
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942880f",
+            "_tpl": "5894a5b586f77426d2590767",
+            "parentId": "5e68b27b86f774664942880c",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "5e68b27b86f7746649428812",
+            "_tpl": "5894a2c386f77427140b8342",
+            "parentId": "5e68b27b86f774664942880f",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "5e68b27b86f7746649428815",
+            "_tpl": "58949dea86f77409483e16a8",
+            "parentId": "5e68b27b86f7746649428812",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "5e68b27b86f7746649428813",
+            "_tpl": "5894a42086f77426d2590762",
+            "parentId": "5e68b27b86f774664942880f",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "5e68b27b86f7746649428816",
+            "_tpl": "5894a73486f77426d259076c",
+            "parentId": "5e68b27b86f7746649428813",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "5e68b27b86f7746649428817",
+            "_tpl": "58a56f8d86f774651579314c",
+            "parentId": "5e68b27b86f7746649428813",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "5e68b27b86f7746649428818",
+            "_tpl": "58a5c12e86f7745d585a2b9e",
+            "parentId": "5e68b27b86f7746649428813",
+            "slotId": "mod_mount_001"
+          },
+          {
+            "_id": "5e68b27b86f7746649428819",
+            "_tpl": "58a56f8d86f774651579314c",
+            "parentId": "5e68b27b86f7746649428813",
+            "slotId": "mod_mount_002"
+          },
+          {
+            "_id": "5e68b27b86f7746649428814",
+            "_tpl": "5894a81786f77427140b8347",
+            "parentId": "5e68b27b86f774664942880f",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "5e68b27b86f7746649428810",
+            "_tpl": "5894a13e86f7742405482982",
+            "parentId": "5e68b27b86f774664942880c",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "5e68b27b86f7746649428811",
+            "_tpl": "58949edd86f77409483e16a9",
+            "parentId": "5e68b27b86f774664942880c",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "5e68b27b86f774664942881b",
+            "_tpl": "5bfea6e90db834001b7347f3",
+            "parentId": "5e68b27b86f7746649428801",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 4,
+              "r": 0
+            },
+            "upd": {
+              "FireMode": {
+                "FireMode": "single"
+              }
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942881c",
+            "_tpl": "5bfea7ad0db834001c38f1ee",
+            "parentId": "5e68b27b86f774664942881b",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f774664942881f",
+            "_tpl": "5a6086ea4f39f99cd479502f",
+            "parentId": "5e68b27b86f774664942881c",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 4
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942881d",
+            "_tpl": "5bfeb32b0db834001a6694d9",
+            "parentId": "5e68b27b86f774664942881b",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "5e68b27b86f774664942881e",
+            "_tpl": "5bfebc320db8340019668d79",
+            "parentId": "5e68b27b86f774664942881b",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "5e68b27b86f7746649428820",
+            "_tpl": "5c1127bdd174af44217ab8b9",
+            "parentId": "5e68b27b86f7746649428801",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 3,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428821",
+            "_tpl": "5c0d56a986f774449d5de529",
+            "parentId": "5e68b27b86f7746649428820",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 20
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00047",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428822",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428822",
+            "_tpl": "578f8778245977358849a9b5"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00046",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428823",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428823",
+            "_tpl": "578f8778245977358849a9b5"
+          },
+          {
+            "_id": "5e68b27b86f7746649428824",
+            "_tpl": "59148c8a86f774197930e983",
+            "parentId": "5e68b27b86f7746649428823",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00069",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428825",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428825",
+            "_tpl": "5d6d2b5486f774785c2ba8ea"
+          },
+          {
+            "_id": "5e68b27b86f7746649428826",
+            "_tpl": "57347c77245977448d35f6e2",
+            "parentId": "5e68b27b86f7746649428825",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428827",
+            "_tpl": "57347d9c245977448b40fa85",
+            "parentId": "5e68b27b86f7746649428825",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428828",
+            "_tpl": "5d4042a986f7743185265463",
+            "parentId": "5e68b27b86f7746649428825",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428829",
+            "_tpl": "57347d7224597744596b4e72",
+            "parentId": "5e68b27b86f7746649428825",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00045",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942882a",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942882a",
+            "_tpl": "5909d45286f77465a8136dc6"
+          },
+          {
+            "_id": "5e68b27b86f774664942882b",
+            "_tpl": "56dff3afd2720bba668b4567",
+            "parentId": "5e68b27b86f774664942882a",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 10
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00072",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942882c",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942882c",
+            "_tpl": "5d6d2bb386f774785b07a77a"
+          },
+          {
+            "_id": "5e68b27b86f774664942882d",
+            "_tpl": "575146b724597720a27126d5",
+            "parentId": "5e68b27b86f774664942882c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942882e",
+            "_tpl": "56dfef82d2720bbd668b4567",
+            "parentId": "5e68b27b86f774664942882c",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 42
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00044",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942882f",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942882f",
+            "_tpl": "578f8778245977358849a9b5"
+          },
+          {
+            "_id": "5e68b27b86f7746649428830",
+            "_tpl": "56742c2e4bdc2d95058b456d",
+            "parentId": "5e68b27b86f774664942882f",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00043",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428831",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428831",
+            "_tpl": "5909e4b686f7747f5b744fa4"
+          },
+          {
+            "_id": "5e68b27b86f7746649428832",
+            "_tpl": "57347cd0245977445a2d6ff1",
+            "parentId": "5e68b27b86f7746649428831",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428833",
+            "_tpl": "57347b8b24597737dd42e192",
+            "parentId": "5e68b27b86f7746649428831",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428834",
+            "_tpl": "57347c5b245977448d35f6e1",
+            "parentId": "5e68b27b86f7746649428831",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428835",
+            "_tpl": "57513f9324597720a7128161",
+            "parentId": "5e68b27b86f7746649428831",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428836",
+            "_tpl": "590c2b4386f77425357b6123",
+            "parentId": "5e68b27b86f7746649428831",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00042",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428837",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428837",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f7746649428838",
+            "_tpl": "59e655cb86f77411dc52a77b",
+            "parentId": "5e68b27b86f7746649428837",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 35
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428839",
+            "_tpl": "5448c12b4bdc2d02308b456f",
+            "parentId": "5e68b27b86f7746649428837",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00041",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942883a",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942883a",
+            "_tpl": "578f8778245977358849a9b5"
+          },
+          {
+            "_id": "5e68b27b86f774664942883b",
+            "_tpl": "5913611c86f77479e0084092",
+            "parentId": "5e68b27b86f774664942883a",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942883c",
+            "_tpl": "573475fb24597737fb1379e1",
+            "parentId": "5e68b27b86f774664942883a",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00040",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942883d",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942883d",
+            "_tpl": "578f87a3245977356274f2cb"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00058",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942883e",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942883e",
+            "_tpl": "5909d36d86f774660f0bb900"
+          },
+          {
+            "_id": "5e68b27b86f774664942883f",
+            "_tpl": "5a2a57cfc4a2826c6e06d44a",
+            "parentId": "5e68b27b86f774664942883e",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428840",
+            "_tpl": "5e2af51086f7746d3f3c3402",
+            "parentId": "5e68b27b86f774664942883e",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00039",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428841",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428841",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f7746649428842",
+            "_tpl": "591c4e1186f77410354b316e",
+            "parentId": "5e68b27b86f7746649428841",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428843",
+            "_tpl": "5448ff904bdc2d6f028b456e",
+            "parentId": "5e68b27b86f7746649428841",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00067",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428844",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428844",
+            "_tpl": "5d6d2bb386f774785b07a77a"
+          },
+          {
+            "_id": "5e68b27b86f7746649428845",
+            "_tpl": "59e6920f86f77411d82aa167",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 3
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428846",
+            "_tpl": "560d5e524bdc2d25448b4571",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 3
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428847",
+            "_tpl": "5449016a4bdc2d6f028b456f",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 993
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428848",
+            "_tpl": "5e2af2bc86f7746d3f3c33fc",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428849",
+            "_tpl": "590c5d4b86f774784e1b9c45",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942884a",
+            "_tpl": "5734758f24597738025ee253",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942884b",
+            "_tpl": "57347c77245977448d35f6e2",
+            "parentId": "5e68b27b86f7746649428844",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00038",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942884c",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942884c",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f774664942884d",
+            "_tpl": "57c5ac0824597754771e88a9",
+            "parentId": "5e68b27b86f774664942884c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00037",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942884e",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942884e",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27b86f774664942884f",
+            "_tpl": "5d1b313086f77425227d1678",
+            "parentId": "5e68b27b86f774664942884e",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428850",
+            "_tpl": "573476d324597737da2adc13",
+            "parentId": "5e68b27b86f774664942884e",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428851",
+            "_tpl": "575146b724597720a27126d5",
+            "parentId": "5e68b27b86f774664942884e",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00036",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428852",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428852",
+            "_tpl": "5909d89086f77472591234a0"
+          },
+          {
+            "_id": "5e68b27b86f7746649428853",
+            "_tpl": "57ffaea724597779f52b3a4d",
+            "parentId": "5e68b27b86f7746649428852",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428854",
+            "_tpl": "5aaa5dfee5b5b000140293d3",
+            "parentId": "5e68b27b86f7746649428852",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00035",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428855",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428855",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f7746649428856",
+            "_tpl": "57d14d2524597714373db789",
+            "parentId": "5e68b27b86f7746649428855",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428857",
+            "_tpl": "57d152ec245977144076ccdf",
+            "parentId": "5e68b27b86f7746649428856",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "5e68b27b86f7746649428858",
+            "_tpl": "57d1519e24597714373db79d",
+            "parentId": "5e68b27b86f7746649428856",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f7746649428859",
+            "_tpl": "573719762459775a626ccbc1",
+            "parentId": "5e68b27b86f7746649428858",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 11
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942885a",
+            "_tpl": "5c1262a286f7743f8a69aab2",
+            "parentId": "5e68b27b86f7746649428855",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942885b",
+            "_tpl": "5c0d5e4486f77478390952fe",
+            "parentId": "5e68b27b86f774664942885a",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 30
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00059",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942885c",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942885c",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f774664942885d",
+            "_tpl": "5cff9e84d7ad1a049e54ed55",
+            "parentId": "5e68b27b86f774664942885c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00033",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942885e",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942885e",
+            "_tpl": "578f8778245977358849a9b5"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00032",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942885f",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942885f",
+            "_tpl": "578f8778245977358849a9b5"
+          },
+          {
+            "_id": "5e68b27b86f7746649428860",
+            "_tpl": "5a13f35286f77413ef1436b0",
+            "parentId": "5e68b27b86f774664942885f",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428861",
+            "_tpl": "573476f124597737e04bf328",
+            "parentId": "5e68b27b86f774664942885f",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00031",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428862",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428862",
+            "_tpl": "578f87ad245977356274f2cc"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00034",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428863",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428863",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f7746649428864",
+            "_tpl": "5448bd6b4bdc2dfc2f8b4569",
+            "parentId": "5e68b27b86f7746649428863",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428865",
+            "_tpl": "5448c12b4bdc2d02308b456f",
+            "parentId": "5e68b27b86f7746649428864",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f7746649428866",
+            "_tpl": "573719762459775a626ccbc1",
+            "parentId": "5e68b27b86f7746649428865",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 5
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00030",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428867",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428867",
+            "_tpl": "578f8778245977358849a9b5"
+          },
+          {
+            "_id": "5e68b27b86f7746649428868",
+            "_tpl": "573476d324597737da2adc13",
+            "parentId": "5e68b27b86f7746649428867",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428869",
+            "_tpl": "573476d324597737da2adc13",
+            "parentId": "5e68b27b86f7746649428867",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00029",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942886a",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942886a",
+            "_tpl": "578f87a3245977356274f2cb"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00028",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942886b",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942886b",
+            "_tpl": "578f87a3245977356274f2cb"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00070",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942886c",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942886c",
+            "_tpl": "5d6d2bb386f774785b07a77a"
+          },
+          {
+            "_id": "5e68b27b86f774664942886d",
+            "_tpl": "590c31c586f774245e3141b2",
+            "parentId": "5e68b27b86f774664942886c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942886e",
+            "_tpl": "57513fcc24597720a31c09a6",
+            "parentId": "5e68b27b86f774664942886c",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942886f",
+            "_tpl": "58d3db5386f77426186285a0",
+            "parentId": "5e68b27b86f774664942886c",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428870",
+            "_tpl": "5a6086ea4f39f99cd479502f",
+            "parentId": "5e68b27b86f774664942886c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 11
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428871",
+            "_tpl": "573475fb24597737fb1379e1",
+            "parentId": "5e68b27b86f774664942886c",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428872",
+            "_tpl": "573475fb24597737fb1379e1",
+            "parentId": "5e68b27b86f774664942886c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 2,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00027",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428873",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428873",
+            "_tpl": "5909e4b686f7747f5b744fa4"
+          },
+          {
+            "_id": "5e68b27b86f7746649428874",
+            "_tpl": "590a358486f77429692b2790",
+            "parentId": "5e68b27b86f7746649428873",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428875",
+            "_tpl": "590c2d8786f774245b1f03f3",
+            "parentId": "5e68b27b86f7746649428873",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428876",
+            "_tpl": "573475fb24597737fb1379e1",
+            "parentId": "5e68b27b86f7746649428873",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428877",
+            "_tpl": "573475fb24597737fb1379e1",
+            "parentId": "5e68b27b86f7746649428873",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00071",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428878",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428878",
+            "_tpl": "5d6d2b5486f774785c2ba8ea"
+          },
+          {
+            "_id": "5e68b27b86f7746649428879",
+            "_tpl": "590c5c9f86f77477c91c36e7",
+            "parentId": "5e68b27b86f7746649428878",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942887a",
+            "_tpl": "5a17f98cfcdbcb0980087290",
+            "parentId": "5e68b27b86f7746649428878",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942887b",
+            "_tpl": "5a17fb03fcdbcbcae668728f",
+            "parentId": "5e68b27b86f774664942887a",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f774664942887f",
+            "_tpl": "573719762459775a626ccbc1",
+            "parentId": "5e68b27b86f774664942887b",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 17
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942887c",
+            "_tpl": "5a17fc70fcdbcb0176308b3d",
+            "parentId": "5e68b27b86f774664942887a",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "5e68b27b86f774664942887d",
+            "_tpl": "5aba62f8d8ce87001943946b",
+            "parentId": "5e68b27b86f774664942887a",
+            "slotId": "mod_sight_front"
+          },
+          {
+            "_id": "5e68b27b86f774664942887e",
+            "_tpl": "5aba637ad8ce87001773e17f",
+            "parentId": "5e68b27b86f774664942887a",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "5e68b27b86f7746649428880",
+            "_tpl": "5d6e68c4a4b9361b93413f79",
+            "parentId": "5e68b27b86f7746649428878",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 1
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00026",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428881",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428881",
+            "_tpl": "578f8778245977358849a9b5"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00060",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428882",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428882",
+            "_tpl": "5909d5ef86f77467974efbd8"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00025",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428883",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428883",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f7746649428884",
+            "_tpl": "54527a984bdc2d4e668b4567",
+            "parentId": "5e68b27b86f7746649428883",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 13
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428885",
+            "_tpl": "5448bd6b4bdc2dfc2f8b4569",
+            "parentId": "5e68b27b86f7746649428883",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428886",
+            "_tpl": "5448c12b4bdc2d02308b456f",
+            "parentId": "5e68b27b86f7746649428885",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27b86f7746649428887",
+            "_tpl": "573719762459775a626ccbc1",
+            "parentId": "5e68b27b86f7746649428886",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 6
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428888",
+            "_tpl": "57d14e1724597714010c3f4b",
+            "parentId": "5e68b27b86f7746649428883",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00054",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428889",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428889",
+            "_tpl": "5909d7cf86f77470ee57d75a"
+          },
+          {
+            "_id": "5e68b27b86f774664942888a",
+            "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+            "parentId": "5e68b27b86f7746649428889",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942888b",
+            "_tpl": "55d4837c4bdc2d1d4e8b456c",
+            "parentId": "5e68b27b86f7746649428889",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00024",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942888c",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942888c",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f774664942888d",
+            "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+            "parentId": "5e68b27b86f774664942888c",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942888e",
+            "_tpl": "59e6542b86f77411dc52a77a",
+            "parentId": "5e68b27b86f774664942888c",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 34
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00064",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942888f",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942888f",
+            "_tpl": "5d6d2b5486f774785c2ba8ea"
+          },
+          {
+            "_id": "5e68b27b86f7746649428890",
+            "_tpl": "590c5a7286f7747884343aea",
+            "parentId": "5e68b27b86f774664942888f",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428891",
+            "_tpl": "5e2aee0a86f774755a234b62",
+            "parentId": "5e68b27b86f774664942888f",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428892",
+            "_tpl": "58820d1224597753c90aeb13",
+            "parentId": "5e68b27b86f774664942888f",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 7
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00023",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428893",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428893",
+            "_tpl": "578f8778245977358849a9b5"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00022",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428894",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428894",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27b86f7746649428895",
+            "_tpl": "5733279d245977289b77ec24",
+            "parentId": "5e68b27b86f7746649428894",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f7746649428896",
+            "_tpl": "56742c284bdc2d98058b456d",
+            "parentId": "5e68b27b86f7746649428894",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00021",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428897",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428897",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27b86f7746649428898",
+            "_tpl": "57ade1442459771557167e15",
+            "parentId": "5e68b27b86f7746649428897",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00020",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f7746649428899",
+        "Items": [
+          {
+            "_id": "5e68b27b86f7746649428899",
+            "_tpl": "578f8778245977358849a9b5"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00019",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942889a",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942889a",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27b86f774664942889b",
+            "_tpl": "5734770f24597738025ee254",
+            "parentId": "5e68b27b86f774664942889a",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942889c",
+            "_tpl": "56742c284bdc2d98058b456d",
+            "parentId": "5e68b27b86f774664942889a",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27b86f774664942889d",
+            "_tpl": "57347b8b24597737dd42e192",
+            "parentId": "5e68b27b86f774664942889a",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00057",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f774664942889e",
+        "Items": [
+          {
+            "_id": "5e68b27b86f774664942889e",
+            "_tpl": "5909d89086f77472591234a0"
+          },
+          {
+            "_id": "5e68b27b86f774664942889f",
+            "_tpl": "5943ee5a86f77413872d25ec",
+            "parentId": "5e68b27b86f774664942889e",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00055",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27b86f77466494288a0",
+        "Items": [
+          {
+            "_id": "5e68b27b86f77466494288a0",
+            "_tpl": "5909d76c86f77471e53d2adf"
+          },
+          {
+            "_id": "5e68b27c86f77466494288a1",
+            "_tpl": "5bbdb811d4351e45020113c7",
+            "parentId": "5e68b27b86f77466494288a0",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00018",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288a2",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288a2",
+            "_tpl": "5909d7cf86f77470ee57d75a"
+          },
+          {
+            "_id": "5e68b27c86f77466494288a3",
+            "_tpl": "59e6449086f7746c9f75e822",
+            "parentId": "5e68b27c86f77466494288a2",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288a4",
+            "_tpl": "58c157be86f77403c74b2bb6",
+            "parentId": "5e68b27c86f77466494288a2",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00017",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288a5",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288a5",
+            "_tpl": "5909d5ef86f77467974efbd8"
+          },
+          {
+            "_id": "5e68b27c86f77466494288a6",
+            "_tpl": "5d2c829448f0353a5c7d6674",
+            "parentId": "5e68b27c86f77466494288a5",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288a7",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "5e68b27c86f77466494288a5",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00068",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288a8",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288a8",
+            "_tpl": "5d6d2b5486f774785c2ba8ea"
+          },
+          {
+            "_id": "5e68b27c86f77466494288a9",
+            "_tpl": "5e2af51086f7746d3f3c3402",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288aa",
+            "_tpl": "5c0fa877d174af02a012e1cf",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288ab",
+            "_tpl": "57347cd0245977445a2d6ff1",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288ac",
+            "_tpl": "57513f9324597720a7128161",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288ad",
+            "_tpl": "5448bd6b4bdc2dfc2f8b4569",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 1
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288ae",
+            "_tpl": "5448c12b4bdc2d02308b456f",
+            "parentId": "5e68b27c86f77466494288ad",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27c86f77466494288af",
+            "_tpl": "573719762459775a626ccbc1",
+            "parentId": "5e68b27c86f77466494288ae",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 3
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288b0",
+            "_tpl": "5448ff904bdc2d6f028b456e",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288b1",
+            "_tpl": "5737218f245977612125ba51",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 2,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 10
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288b2",
+            "_tpl": "573475fb24597737fb1379e1",
+            "parentId": "5e68b27c86f77466494288a8",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 2,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00016",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288b3",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288b3",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27c86f77466494288b4",
+            "_tpl": "56dff3afd2720bba668b4567",
+            "parentId": "5e68b27c86f77466494288b3",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 12
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00015",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288b5",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288b5",
+            "_tpl": "5909d24f86f77466f56e6855"
+          },
+          {
+            "_id": "5e68b27c86f77466494288b6",
+            "_tpl": "590c695186f7741e566b64a2",
+            "parentId": "5e68b27c86f77466494288b5",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288b7",
+            "_tpl": "5751a25924597722c463c472",
+            "parentId": "5e68b27c86f77466494288b5",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288b8",
+            "_tpl": "544fb3f34bdc2d03748b456a",
+            "parentId": "5e68b27c86f77466494288b5",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00014",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288b9",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288b9",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ba",
+            "_tpl": "570fd79bd2720bc7458b4583",
+            "parentId": "5e68b27c86f77466494288b9",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288bb",
+            "_tpl": "5d1c819a86f774771b0acd6c",
+            "parentId": "5e68b27c86f77466494288b9",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00066",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288bc",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288bc",
+            "_tpl": "5d6d2b5486f774785c2ba8ea"
+          },
+          {
+            "_id": "5e68b27c86f77466494288bd",
+            "_tpl": "57347c93245977448d35f6e3",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288be",
+            "_tpl": "59e4d3d286f774176a36250a",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 4
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288bf",
+            "_tpl": "5d1b3f2d86f774253763b735",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c0",
+            "_tpl": "57347d3d245977448f7b7f61",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c1",
+            "_tpl": "5734770f24597738025ee254",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c2",
+            "_tpl": "56742c284bdc2d98058b456d",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 1,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c3",
+            "_tpl": "57347c5b245977448d35f6e1",
+            "parentId": "5e68b27c86f77466494288bc",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 1,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00065",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288c4",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288c4",
+            "_tpl": "5d6d2bb386f774785b07a77a"
+          },
+          {
+            "_id": "5e68b27c86f77466494288c5",
+            "_tpl": "57347c93245977448d35f6e3",
+            "parentId": "5e68b27c86f77466494288c4",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c6",
+            "_tpl": "5c06779c86f77426e00dd782",
+            "parentId": "5e68b27c86f77466494288c4",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c7",
+            "_tpl": "5d0378d486f77420421a5ff4",
+            "parentId": "5e68b27c86f77466494288c4",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288c8",
+            "_tpl": "5448ff904bdc2d6f028b456e",
+            "parentId": "5e68b27c86f77466494288c4",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00061",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288c9",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288c9",
+            "_tpl": "5909d7cf86f77470ee57d75a"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ca",
+            "_tpl": "57fd23e32459772d0805bcf1",
+            "parentId": "5e68b27c86f77466494288c9",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288cb",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "5e68b27c86f77466494288c9",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00013",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288cc",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288cc",
+            "_tpl": "578f87ad245977356274f2cc"
+          },
+          {
+            "_id": "5e68b27c86f77466494288cd",
+            "_tpl": "573719df2459775a626ccbc2",
+            "parentId": "5e68b27c86f77466494288cc",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 4
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288ce",
+            "_tpl": "576a7c512459771e796e0e17",
+            "parentId": "5e68b27c86f77466494288cc",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00012",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288cf",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288cf",
+            "_tpl": "578f87b7245977356274f2cd"
+          },
+          {
+            "_id": "5e68b27c86f77466494288d0",
+            "_tpl": "57347c1124597737fb1379e3",
+            "parentId": "5e68b27c86f77466494288cf",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288d1",
+            "_tpl": "5909e99886f7740c983b9984",
+            "parentId": "5e68b27c86f77466494288cf",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00011",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288d2",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288d2",
+            "_tpl": "578f87b7245977356274f2cd"
+          },
+          {
+            "_id": "5e68b27c86f77466494288d3",
+            "_tpl": "57347b8b24597737dd42e192",
+            "parentId": "5e68b27c86f77466494288d2",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288d4",
+            "_tpl": "57347b8b24597737dd42e192",
+            "parentId": "5e68b27c86f77466494288d2",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288d5",
+            "_tpl": "56742c284bdc2d98058b456d",
+            "parentId": "5e68b27c86f77466494288d2",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00010",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288d6",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288d6",
+            "_tpl": "578f87b7245977356274f2cd"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00009",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288d7",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288d7",
+            "_tpl": "578f87b7245977356274f2cd"
+          },
+          {
+            "_id": "5e68b27c86f77466494288d8",
+            "_tpl": "5938504186f7740991483f30",
+            "parentId": "5e68b27c86f77466494288d7",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00056",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288d9",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288d9",
+            "_tpl": "5909d7cf86f77470ee57d75a"
+          },
+          {
+            "_id": "5e68b27c86f77466494288da",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "5e68b27c86f77466494288d9",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288db",
+            "_tpl": "55802d5f4bdc2dac148b458e",
+            "parentId": "5e68b27c86f77466494288d9",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288dc",
+            "_tpl": "56def37dd2720bec348b456a",
+            "parentId": "5e68b27c86f77466494288d9",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00008",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288dd",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288dd",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27c86f77466494288de",
+            "_tpl": "57347c77245977448d35f6e2",
+            "parentId": "5e68b27c86f77466494288dd",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288df",
+            "_tpl": "573476d324597737da2adc13",
+            "parentId": "5e68b27c86f77466494288dd",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288e0",
+            "_tpl": "5734773724597737fd047c14",
+            "parentId": "5e68b27c86f77466494288dd",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288e1",
+            "_tpl": "59e35ef086f7741777737012",
+            "parentId": "5e68b27c86f77466494288dd",
+            "slotId": "main",
+            "location": {
+              "x": 3,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00007",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288e2",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288e2",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27c86f77466494288e3",
+            "_tpl": "5734773724597737fd047c14",
+            "parentId": "5e68b27c86f77466494288e2",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288e4",
+            "_tpl": "57347c5b245977448d35f6e1",
+            "parentId": "5e68b27c86f77466494288e2",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288e5",
+            "_tpl": "57347c77245977448d35f6e2",
+            "parentId": "5e68b27c86f77466494288e2",
+            "slotId": "main",
+            "location": {
+              "x": 2,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00006",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288e6",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288e6",
+            "_tpl": "5909d5ef86f77467974efbd8"
+          },
+          {
+            "_id": "5e68b27c86f77466494288e7",
+            "_tpl": "59d6272486f77466146386ff",
+            "parentId": "5e68b27c86f77466494288e6",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288e8",
+            "_tpl": "5ac66d9b5acfc4001633997a",
+            "parentId": "5e68b27c86f77466494288e6",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288e9",
+            "_tpl": "59c6633186f7740cf0493bb9",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_gas_block"
+          },
+          {
+            "_id": "5e68b27c86f77466494288f0",
+            "_tpl": "5648b1504bdc2d9d488b4584",
+            "parentId": "5e68b27c86f77466494288e9",
+            "slotId": "mod_handguard"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ea",
+            "_tpl": "5ac72e945acfc43f3b691116",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "5e68b27c86f77466494288eb",
+            "_tpl": "5649ade84bdc2d1b2b8b4587",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_pistol_grip"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ec",
+            "_tpl": "5ac50da15acfc4001718d287",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ed",
+            "_tpl": "5ac733a45acfc400192630e2",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_sight_rear"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ee",
+            "_tpl": "5ac50c185acfc400163398d4",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "5e68b27c86f77466494288ef",
+            "_tpl": "55d480c04bdc2d1d4e8b456a",
+            "parentId": "5e68b27c86f77466494288e8",
+            "slotId": "mod_magazine"
+          },
+          {
+            "_id": "5e68b27c86f77466494288f1",
+            "_tpl": "56dff3afd2720bba668b4567",
+            "parentId": "5e68b27c86f77466494288ef",
+            "slotId": "cartridges",
+            "upd": {
+              "StackObjectsCount": 21
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00062",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288f2",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288f2",
+            "_tpl": "5909d7cf86f77470ee57d75a"
+          },
+          {
+            "_id": "5e68b27c86f77466494288f3",
+            "_tpl": "55d4887d4bdc2d962f8b4570",
+            "parentId": "5e68b27c86f77466494288f2",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288f4",
+            "_tpl": "5448c12b4bdc2d02308b456f",
+            "parentId": "5e68b27c86f77466494288f2",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00005",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288f5",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288f5",
+            "_tpl": "578f87a3245977356274f2cb"
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00004",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288f6",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288f6",
+            "_tpl": "578f87a3245977356274f2cb"
+          },
+          {
+            "_id": "5e68b27c86f77466494288f7",
+            "_tpl": "590c5d4b86f774784e1b9c45",
+            "parentId": "5e68b27c86f77466494288f6",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288f8",
+            "_tpl": "57347c1124597737fb1379e3",
+            "parentId": "5e68b27c86f77466494288f6",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00003",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288f9",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288f9",
+            "_tpl": "578f87b7245977356274f2cd"
+          },
+          {
+            "_id": "5e68b27c86f77466494288fa",
+            "_tpl": "57347c1124597737fb1379e3",
+            "parentId": "5e68b27c86f77466494288f9",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288fb",
+            "_tpl": "57347cd0245977445a2d6ff1",
+            "parentId": "5e68b27c86f77466494288f9",
+            "slotId": "main",
+            "location": {
+              "x": 1,
+              "y": 0,
+              "r": 0
+            }
+          },
+          {
+            "_id": "5e68b27c86f77466494288fc",
+            "_tpl": "5672cb124bdc2d1a0f8b4568",
+            "parentId": "5e68b27c86f77466494288f9",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 1,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00002",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288fd",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288fd",
+            "_tpl": "578f87b7245977356274f2cd"
+          },
+          {
+            "_id": "5e68b27c86f77466494288fe",
+            "_tpl": "5696686a4bdc2da3298b456a",
+            "parentId": "5e68b27c86f77466494288fd",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            },
+            "upd": {
+              "StackObjectsCount": 89
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00001",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f77466494288ff",
+        "Items": [
+          {
+            "_id": "5e68b27c86f77466494288ff",
+            "_tpl": "578f87b7245977356274f2cd"
+          },
+          {
+            "_id": "5e68b27c86f7746649428900",
+            "_tpl": "57347b8b24597737dd42e192",
+            "parentId": "5e68b27c86f77466494288ff",
+            "slotId": "main",
+            "location": {
+              "x": 0,
+              "y": 0,
+              "r": 0
+            }
+          }
+        ]
+      },
+      {
+        "Id": "Lootable_00000",
+        "IsStatic": true,
+        "useGravity": true,
+        "randomRotation": false,
+        "Position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "IsGroupPosition": false,
+        "GroupPositions": [],
+        "Root": "5e68b27c86f7746649428901",
+        "Items": [
+          {
+            "_id": "5e68b27c86f7746649428901",
+            "_tpl": "578f87b7245977356274f2cd"
+          }
+        ]
+      }
+    ],
+    "SpawnAreas": [
+      {
+        "Id": "Loot points container/Scav Spawn",
+        "Sides": [
+          "Savage"
+        ],
+        "InfiltrationZone": "",
+        "Position": {
+          "x": 76.25,
+          "y": -3.64,
+          "z": -11.65
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 191.34
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -539.87,
+          "y": -1.18,
+          "z": 294.67
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 68.9
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (1)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -537.1,
+          "y": -1.23,
+          "z": 294.64
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 76.84
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (10)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -538.64,
+          "y": -1.01,
+          "z": 297.58
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 97.42
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (11)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -522.71,
+          "y": -2.58,
+          "z": 216.57
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 89.89
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (12)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -524.17,
+          "y": -2.56,
+          "z": 220.33
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (13)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -525.09,
+          "y": -2.58,
+          "z": 218.24
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 295.64
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (14)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -525.07,
+          "y": -2.58,
+          "z": 216
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 261.12
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (15)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -519.41,
+          "y": 7.35,
+          "z": 154.59
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 188.21
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (16)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -517.55,
+          "y": 7.35,
+          "z": 153.67
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 185.28
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (17)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -518.69,
+          "y": 7.35,
+          "z": 145.43
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (18)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -516.79,
+          "y": 7.35,
+          "z": 146.27
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (2)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -494.04,
+          "y": 20.59,
+          "z": -47.8299866
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (23)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -491.97,
+          "y": 20.64,
+          "z": -48.4200134
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (24)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -491.51,
+          "y": 20.61,
+          "z": -46.0899963
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (25)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -493.51,
+          "y": 20.66,
+          "z": -45.8299866
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (26)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -490.09,
+          "y": 20.77,
+          "z": -49.6000061
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (27)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -330.93,
+          "y": 19.734,
+          "z": -142.31
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 33.4158134
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (28)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -331.590027,
+          "y": 18.684,
+          "z": -138.909973
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 33.6
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (29)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -329.24,
+          "y": 19.144,
+          "z": -142.199982
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 38.55454
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (3)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -335.409973,
+          "y": 19.3039989,
+          "z": -139.37
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 51.83194
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (30)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -334.02002,
+          "y": 17.604,
+          "z": -136.199982
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 47.6124344
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (35)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -254.13,
+          "y": 27.39,
+          "z": -204.87
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 23.36
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (36)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -252.25,
+          "y": 27.39,
+          "z": -207.4
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 25.48
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (37)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -256.18,
+          "y": 27.94,
+          "z": -204.1
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 9.03
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (38)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -254.19,
+          "y": 28.06,
+          "z": -207.9
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 25.38
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (39)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -252.109985,
+          "y": 26.99,
+          "z": -205.009979
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 18.05
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (40)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -516.73,
+          "y": 9.31,
+          "z": 89.04001
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 130.67
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (41)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -519.08,
+          "y": 9.69,
+          "z": 88.3999939
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 130.67
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (42)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -522.32,
+          "y": 10.79,
+          "z": 86.6199951
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 130.67
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (43)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -524.56,
+          "y": 11.28,
+          "z": 84.5
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 130.67
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (44)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -520.11,
+          "y": 10.32,
+          "z": 85.86
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 130.67
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (45)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -357.55,
+          "y": 0.873999357,
+          "z": 237.460022
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 129.42
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (46)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -359.34,
+          "y": 0.9039993,
+          "z": 236.440018
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 129.42
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (47)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -354.72998,
+          "y": 0.9739994,
+          "z": 239.63
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 129.42
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (48)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -361.25,
+          "y": 1.02399933,
+          "z": 237.990021
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 129.42
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (49)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -359.75,
+          "y": 0.883999348,
+          "z": 239.670013
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 129.42
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (5)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -521.16,
+          "y": 7.35,
+          "z": 154.3
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 183.39
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (50)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -92.29401,
+          "y": -0.7660007,
+          "z": 380.444031
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 224.316589
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (51)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -91.25598,
+          "y": -0.5030007,
+          "z": 379.363
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 224.316589
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (52)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -93.54001,
+          "y": -0.9060007,
+          "z": 382.530029
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 224.316589
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (53)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -92.94998,
+          "y": -1.16600072,
+          "z": 385.31
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 224.316589
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (54)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -90.1000061,
+          "y": -0.5260007,
+          "z": 377.360016
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 224.316589
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (55)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -277.37,
+          "y": -1.52600062,
+          "z": 329.740051
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 200.377533
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (56)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -272.01,
+          "y": -2.04600048,
+          "z": 329.420044
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 198.3922
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (57)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -280.28,
+          "y": -0.926000655,
+          "z": 332.870026
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 193.460388
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (58)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -275.97998,
+          "y": -1.05600071,
+          "z": 334.300018
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 213.640839
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (59)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -273.26,
+          "y": -1.55600071,
+          "z": 333.250031
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 195.703735
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (6)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -537.79,
+          "y": -1.16,
+          "z": 295.99
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 83.79
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (60)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 367.74,
+          "y": -1.29600072,
+          "z": -73.78998
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (61)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 370.960022,
+          "y": -1.82600069,
+          "z": -73.28
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (62)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 368.650024,
+          "y": -1.67600071,
+          "z": -81.73999
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (63)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 368.87,
+          "y": -1.60600066,
+          "z": -67.45999
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (64)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 373.61,
+          "y": -1.89600062,
+          "z": -76.15997
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (7)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -540.68,
+          "y": -1.06,
+          "z": 297.02
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 78.41
+      },
+      {
+        "Id": "spawns_var1/PMC Spawn (9)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "Old Station",
+        "Position": {
+          "x": -522.77,
+          "y": -2.58,
+          "z": 218.57
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 0
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (10)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 464.24,
+          "y": -15.01,
+          "z": 176.19
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 239.859985
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (11)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 464.75,
+          "y": -14.77,
+          "z": 174.27
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 239.859985
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (2)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 515.2101,
+          "y": -20.85,
+          "z": 264.44
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 204.02
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (3)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 516.7999,
+          "y": -20.9,
+          "z": 264.43
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 198.81
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (4)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 518.410034,
+          "y": -20.89,
+          "z": 264.3
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 216.79
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (5)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 517.98,
+          "y": -20.81,
+          "z": 260.66
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 257
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (6)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 515.24,
+          "y": -20.81,
+          "z": 261.53
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 239.859985
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (7)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 466.76,
+          "y": -14.94,
+          "z": 174.25
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 239.859985
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (8)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 465.959961,
+          "y": -15.04,
+          "z": 176.27
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 239.859985
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn (9)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 465.27002,
+          "y": -15.16,
+          "z": 177.84
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 239.859985
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 10",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 279.77002,
+          "y": -12.33,
+          "z": 314.4
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 242.98999
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 11",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 279.900024,
+          "y": -12.08,
+          "z": 317.73
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 237.94
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 12",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 280.74,
+          "y": -11.89,
+          "z": 319.43
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 255.300018
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 13",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 280.469971,
+          "y": -12.49,
+          "z": 312.44
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 243.09
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (10)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 494.735,
+          "y": -18.2860012,
+          "z": 335.523
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 240.480011
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (11)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 493.52002,
+          "y": -19.076,
+          "z": 331.250031
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 229.460022
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (12)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 492.679932,
+          "y": -18.496,
+          "z": 328.52005
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 230.000015
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (3)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 443.869934,
+          "y": -20.4660015,
+          "z": 362.51
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 230.000015
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (4)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 447.720032,
+          "y": -20.806,
+          "z": 366.76
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 245.390015
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (5)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 447.419983,
+          "y": -20.6260014,
+          "z": 362.5
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 229.460022
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (6)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 443.539978,
+          "y": -20.676,
+          "z": 367.88
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 240.480011
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (7)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 443.44,
+          "y": -20.486,
+          "z": 364.48
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 228.71
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (8)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 489.699951,
+          "y": -18.757,
+          "z": 330.75
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 228.71
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 18 (9)",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 495.303955,
+          "y": -18.7060013,
+          "z": 332.610016
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 245.390015
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 24",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 418.410034,
+          "y": -6.206001,
+          "z": 14.3000183
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 262.49
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 25",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 418.01,
+          "y": -6.11600065,
+          "z": 11.9400024
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 256.93
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 26",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 410.780029,
+          "y": -5.32600069,
+          "z": 13.3900146
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 263.100067
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 27",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 414.249939,
+          "y": -5.74600029,
+          "z": 12.9500122
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 268.46
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 28",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 418.45,
+          "y": -6.08600044,
+          "z": 9.01001
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 276.02
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 29",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 228.390015,
+          "y": -8.18,
+          "z": 199.36
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 157.11
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 30",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 229.969971,
+          "y": -7.81,
+          "z": 200.65
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 139.58
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 5",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 226.43,
+          "y": -8.7,
+          "z": 197.5
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 193.25
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 6",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 226.43,
+          "y": -8.3,
+          "z": 199.06
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 144.47
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 7",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 231.640015,
+          "y": -7.39,
+          "z": 201.72
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 136.06
+      },
+      {
+        "Id": "spawns_var2/PMC House Spawn 9",
+        "Sides": [
+          "Usec",
+          "Bear"
+        ],
+        "InfiltrationZone": "House",
+        "Position": {
+          "x": 278.75,
+          "y": -11.97,
+          "z": 315.84
+        },
+        "Center": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Size": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "Orientation": 223.42
+      }
+    ],
+    "Banners": [
+      {
+        "id": "5803a58524597710ca36fcb2",
+        "pic": {
+          "path": "CONTENT/banners/banner_terragroup.jpg",
+          "rcid": ""
+        }
+      },
+      {
+        "id": "5c1b857086f77465f465faa4",
+        "pic": {
+          "path": "CONTENT/banners/banner_scavraider.jpg",
+          "rcid": ""
+        }
+      }
+    ]
+  }
+}

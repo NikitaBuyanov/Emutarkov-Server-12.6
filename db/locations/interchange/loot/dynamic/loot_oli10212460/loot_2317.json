@@ -1,0 +1,25 @@
+{
+	"Id": "loot_oli10212460",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -104.368652,
+		"y": 27.6228065,
+		"z": 146.6847
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 79,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd3586f77450af0ee77b",
+	"Items": [
+		{
+			"_id": "5eb3dd3586f77450af0ee77b",
+			"_tpl": "590c31c586f774245e3141b2"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"_id": "scav_kit_upper_meteor",
+	"tid": "579dc571d53a0658a154fbec",
+	"suiteId": "5df8e65d86f77412672a1e46",
+	"isActive": true,
+	"requirements": {
+		"loyaltyLevel": 0,
+		"profileLevel": 10,
+		"standing": 0,
+		"skillRequirements": [],
+		"questRequirements": [],
+		"itemRequirements": [
+			{
+				"count": 45000,
+				"_tpl": "5449016a4bdc2d6f028b456f"
+			}
+		]
+	}
+}

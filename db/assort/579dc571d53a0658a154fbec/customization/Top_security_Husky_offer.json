@@ -1,0 +1,21 @@
+{
+	"_id": "Top_security_Husky_offer",
+	"tid": "579dc571d53a0658a154fbec",
+	"suiteId": "Top_security_Husky",
+	"isActive": true,
+	"requirements": {
+		"loyaltyLevel": 0,
+		"profileLevel": 25,
+		"standing": 0,
+		"skillRequirements": [],
+		"questRequirements": [
+			"5979f9ba86f7740f6c3fe9f2"
+		],
+		"itemRequirements": [
+			{
+				"count": 25000,
+				"_tpl": "5696686a4bdc2da3298b456a"
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"Id": "loot_el_military (11)6553234",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": true,
+	"Position": {
+		"x": -24.3380127,
+		"y": -5.403,
+		"z": 23.8919983
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 135.458725,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf986f77468595ae84c",
+	"Items": [
+		{
+			"_id": "5eb3dcf986f77468595ae84c",
+			"_tpl": "5c052f6886f7746b1e3db148"
+		}
+	]
+}

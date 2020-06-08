@@ -1,0 +1,28 @@
+{
+	"Id": "loot_money (51)10225564",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 11.9643555,
+		"y": 28.2928123,
+		"z": -139.796387
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 274,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcee86f77447365db511",
+	"Items": [
+		{
+			"_id": "5eb3dcee86f77447365db511",
+			"_tpl": "5696686a4bdc2da3298b456a",
+			"upd": {
+				"StackObjectsCount": 88
+			}
+		}
+	]
+}

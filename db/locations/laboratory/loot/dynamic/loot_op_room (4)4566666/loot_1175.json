@@ -1,0 +1,68 @@
+{
+	"Id": "loot_op_room (4)4566666",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -168.527008,
+		"y": 1.023,
+		"z": -359.124023
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": true,
+	"GroupPositions": [
+		{
+			"Name": "groupPosition[0]",
+			"Weight": 33,
+			"Position": {
+				"x": -139.5908,
+				"y": 5.018,
+				"z": -368.5823
+			},
+			"Rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"Name": "groupPosition[1]",
+			"Weight": 33,
+			"Position": {
+				"x": -182.166885,
+				"y": 1.04699993,
+				"z": -363.043823
+			},
+			"Rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"Name": "groupPosition[2]",
+			"Weight": 33,
+			"Position": {
+				"x": -168.527008,
+				"y": 1.023,
+				"z": -359.124023
+			},
+			"Rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		}
+	],
+	"Root": "5eb3dd8086f7747a087d870e",
+	"Items": [
+		{
+			"_id": "5eb3dd8086f7747a087d870e",
+			"_tpl": "5c1d0f4986f7744bb01837fa"
+		}
+	]
+}

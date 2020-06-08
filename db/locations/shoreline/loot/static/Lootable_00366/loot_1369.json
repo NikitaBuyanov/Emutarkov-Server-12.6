@@ -1,0 +1,108 @@
+{
+	"Id": "Lootable_00366",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f46e4782e749ea3f80d5",
+	"Items": [
+		{
+			"_id": "5ec3f46e4782e749ea3f80d5",
+			"_tpl": "5d6d2b5486f774785c2ba8ea"
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80d6",
+			"_tpl": "5a7ae0c351dfba0017554310",
+			"parentId": "5ec3f46e4782e749ea3f80d5",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80d7",
+			"_tpl": "5a6b5f868dc32e000a311389",
+			"parentId": "5ec3f46e4782e749ea3f80d6",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80d8",
+			"_tpl": "5a6f5e048dc32e00094b97da",
+			"parentId": "5ec3f46e4782e749ea3f80d6",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80da",
+			"_tpl": "5a6f5d528dc32e00094b97d9",
+			"parentId": "5ec3f46e4782e749ea3f80d8",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80db",
+			"_tpl": "5a6f58f68dc32e000a311390",
+			"parentId": "5ec3f46e4782e749ea3f80d8",
+			"slotId": "mod_sight_front"
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80d9",
+			"_tpl": "5a718b548dc32e000d46d262",
+			"parentId": "5ec3f46e4782e749ea3f80d6",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80dc",
+			"_tpl": "56d59d3ad2720bdb418b4577",
+			"parentId": "5ec3f46e4782e749ea3f80d9",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80dd",
+			"_tpl": "5751487e245977207e26a315",
+			"parentId": "5ec3f46e4782e749ea3f80d5",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80de",
+			"_tpl": "573476d324597737da2adc13",
+			"parentId": "5ec3f46e4782e749ea3f80d5",
+			"slotId": "main",
+			"location": {
+				"x": 3,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f46e4782e749ea3f80df",
+			"_tpl": "57347c1124597737fb1379e3",
+			"parentId": "5ec3f46e4782e749ea3f80d5",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		}
+	]
+}

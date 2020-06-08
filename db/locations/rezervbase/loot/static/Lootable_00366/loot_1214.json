@@ -1,0 +1,92 @@
+{
+	"Id": "Lootable_00366",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf786f774633006a411",
+	"Items": [
+		{
+			"_id": "5eb3dcf786f774633006a411",
+			"_tpl": "5909d76c86f77471e53d2adf"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a412",
+			"_tpl": "5cadc190ae921500103bb3b6",
+			"parentId": "5eb3dcf786f774633006a411",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"FireMode": {
+					"FireMode": "single"
+				}
+			}
+		},
+		{
+			"_id": "5eb3dcf786f774633006a413",
+			"_tpl": "5cadc1c6ae9215000f2775a4",
+			"parentId": "5eb3dcf786f774633006a412",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a414",
+			"_tpl": "5cadc390ae921500126a77f1",
+			"parentId": "5eb3dcf786f774633006a413",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a415",
+			"_tpl": "5cadc431ae921500113bb8d5",
+			"parentId": "5eb3dcf786f774633006a412",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a416",
+			"_tpl": "5cadc55cae921500103bb3be",
+			"parentId": "5eb3dcf786f774633006a412",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a417",
+			"_tpl": "5cadd940ae9215051e1c2316",
+			"parentId": "5eb3dcf786f774633006a416",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a418",
+			"_tpl": "5cadd919ae921500126a77f3",
+			"parentId": "5eb3dcf786f774633006a416",
+			"slotId": "mod_sight_front"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a419",
+			"_tpl": "5cadc2e0ae9215051e1c21e7",
+			"parentId": "5eb3dcf786f774633006a412",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dcf786f774633006a41a",
+			"_tpl": "56d59d3ad2720bdb418b4577",
+			"parentId": "5eb3dcf786f774633006a419",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 11
+			}
+		}
+	]
+}

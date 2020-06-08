@@ -1,0 +1,67 @@
+{
+	"Id": "quest_case2036937584",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 178.07,
+		"y": 2.877,
+		"z": 148.702
+	},
+	"Rotation": {
+		"x": 0.00000170754754,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf686f774017729d401",
+	"Items": [
+		{
+			"_id": "5eb3dcf686f774017729d401",
+			"_tpl": "590dde5786f77405e71908b2"
+		},
+		{
+			"_id": "5eb3dcf686f774017729d402",
+			"_tpl": "569668774bdc2da2298b4568",
+			"parentId": "5eb3dcf686f774017729d401",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 66
+			}
+		},
+		{
+			"_id": "5eb3dcf686f774017729d403",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dcf686f774017729d401",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 703
+			}
+		},
+		{
+			"_id": "5eb3dcf686f774017729d404",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dcf686f774017729d401",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 576
+			}
+		}
+	]
+}

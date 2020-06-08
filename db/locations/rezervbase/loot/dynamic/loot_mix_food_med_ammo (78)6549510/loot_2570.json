@@ -1,0 +1,25 @@
+{
+	"Id": "loot_mix_food_med_ammo (78)6549510",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -115.373291,
+		"y": 0.5670004,
+		"z": 99.77258
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd3986f77468595b0497",
+	"Items": [
+		{
+			"_id": "5eb3dd3986f77468595b0497",
+			"_tpl": "57347d7224597744596b4e72"
+		}
+	]
+}

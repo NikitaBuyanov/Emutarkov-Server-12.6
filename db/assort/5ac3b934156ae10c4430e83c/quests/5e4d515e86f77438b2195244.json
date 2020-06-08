@@ -1,0 +1,145 @@
+{
+	"_id": "5e4d515e86f77438b2195244",
+	"traderId": "5ac3b934156ae10c4430e83c",
+	"location": "Any",
+	"image": "/files/quest/icon/5e381b0286f77420e3417a74.jpg",
+	"type": "PickUp",
+	"isKey": false,
+	"restartable": false,
+	"min_level": 47,
+	"canShowNotificationsInGame": true,
+	"rewards": {
+		"Started": [],
+		"Success": [],
+		"Fail": []
+	},
+	"conditions": {
+		"AvailableForStart": [
+			{
+				"_parent": "Level",
+				"_props": {
+					"compareMethod": ">=",
+					"value": "47",
+					"index": 0,
+					"parentId": "",
+					"id": "59a9269486f7747aab09a77c"
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5e381b0286f77420e3417a74",
+					"status": [4],
+					"index": 1,
+					"parentId": "",
+					"id": ""
+				}
+			}
+		],
+		"AvailableForFinish": [
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e2af47786f7746d404f3aaa"
+					],
+					"value": "10",
+					"onlyFoundInRaid": true,
+					"index": 0,
+					"parentId": "",
+					"id": "5e4d515e86f77438b2195245"
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e2af41e86f774755a234b67"
+					],
+					"value": "10",
+					"onlyFoundInRaid": true,
+					"index": 1,
+					"parentId": "",
+					"id": "5e4d515e86f77438b2195247"
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e2af29386f7746d4159f077"
+					],
+					"value": "5",
+					"onlyFoundInRaid": true,
+					"index": 2,
+					"parentId": "",
+					"id": "5e4d515e86f77438b2195249"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e2af47786f7746d404f3aaa"
+					],
+					"value": "10",
+					"index": 3,
+					"parentId": "",
+					"id": "5e4d515e86f77438b2195246",
+					"visibilityConditions": [
+						{
+							"_parent": "CompleteCondition",
+							"_props": {
+								"target": "5e4d515e86f77438b2195245",
+								"id": "5e4d515e86f77438b2195246"
+							}
+						}
+					]
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e2af41e86f774755a234b67"
+					],
+					"value": "10",
+					"index": 4,
+					"parentId": "",
+					"id": "5e4d515e86f77438b2195248",
+					"visibilityConditions": [
+						{
+							"_parent": "CompleteCondition",
+							"_props": {
+								"target": "5e4d515e86f77438b2195247",
+								"id": "5e4d515e86f77438b2195248"
+							}
+						}
+					]
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e2af29386f7746d4159f077"
+					],
+					"value": "5",
+					"index": 5,
+					"parentId": "",
+					"id": "5e4d515e86f77438b219524a",
+					"visibilityConditions": [
+						{
+							"_parent": "CompleteCondition",
+							"_props": {
+								"target": "5e4d515e86f77438b2195249",
+								"id": "5e4d515e86f77438b219524a"
+							}
+						}
+					]
+				}
+			}
+		],
+		"Fail": []
+	}
+}

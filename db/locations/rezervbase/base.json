@@ -1,0 +1,97 @@
+{
+	"Enabled": true,
+	"Locked": false,
+	"Insurance": true,
+	"SafeLocation": false,
+	"Name": "ReserveBase",
+	"Description": "The secret Federal State Reserve Agency base that, according to urban legends, contains enough supplies to last for years: food, medications and other resources, enough to survive an all-out nuclear war.",
+	"Scene": {
+		"path": "maps/rezerv_base_preset.bundle",
+		"rcid": "Rezerv_Base.scenespreset.asset"
+	},
+	"Area": 0,
+	"RequiredPlayerLevel": 0,
+	"surv_gather_minutes": 1,
+	"MinPlayers": 9,
+	"MaxPlayers": 12,
+	"sav_gather_minutes": 1,
+	"exit_count": 1,
+	"exit_access_time": 50,
+	"exit_time": 2,
+	"Preview": {
+		"path": "",
+		"rcid": ""
+	},
+	"IconX": 156,
+	"IconY": 286,
+	"filter_ex": [],
+	"waves": [],
+	"limits": [],
+	"AveragePlayTime": 30,
+	"AveragePlayerLevel": 35,
+	"escape_time_limit": 50,
+	"Rules": "Normal",
+	"IsSecret": false,
+	"doors": [],
+	"tmp_location_field_remove_me": 0,
+	"MinDistToExitPoint": 30,
+	"MaxDistToFreePoint": 550,
+	"MinDistToFreePoint": 110,
+	"MaxBotPerZone": 8,
+	"OpenZones": "ZoneRailStrorage,ZonePTOR1,ZonePTOR2,ZoneBarrack,ZoneBunkerStorage,ZoneSubStorage",
+	"OcculsionCullingEnabled": false,
+	"GlobalLootChanceModifier": 0.25,
+	"OldSpawn": true,
+	"NewSpawn": false,
+	"BotMax": 0,
+	"BotStart": 0,
+	"BotStop": 0,
+	"BotMaxTimePlayer": 0,
+	"BotSpawnTimeOnMin": 0,
+	"BotSpawnTimeOnMax": 0,
+	"BotSpawnTimeOffMin": 0,
+	"BotSpawnTimeOffMax": 0,
+	"BotMaxPlayer": 0,
+	"BotEasy": 0,
+	"BotNormal": 0,
+	"BotHard": 0,
+	"BotImpossible": 0,
+	"BotAssault": 0,
+	"BotMarksman": 0,
+	"DisabledScavExits": "",
+	"AccessKeys": [],
+	"MinMaxBots": [],
+	"BotLocationModifier": {
+		"AccuracySpeed": 0.6,
+		"Scattering": 0.6,
+		"GainSight": 1.3,
+		"MarksmanAccuratyCoef": 1,
+		"VisibleDistance": 1.3,
+		"DistToPersueAxemanCoef": 0.7,
+		"DistToSleep": 350,
+		"DistToActivate": 330
+	},
+	"exits": [],
+	"DisabledForScav": false,
+	"BossLocationSpawn": [],
+	"Id": "RezervBase",
+	"_Id": "5704e5fad2720bc05b8b4567",
+	"Loot": [],
+	"SpawnAreas": [],
+	"Banners": [
+		{
+			"id": "5807bfe124597742a92e0a4c",
+			"pic": {
+				"path": "CONTENT/banners/norvinskzone.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5c1b857086f77465f465faa4",
+			"pic": {
+				"path": "CONTENT/banners/banner_scavraider.jpg",
+				"rcid": ""
+			}
+		}
+	]
+}

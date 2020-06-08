@@ -1,0 +1,25 @@
+{
+	"Id": "loot_mobil10225430",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 12.3293457,
+		"y": 28.2768135,
+		"z": -131.002319
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0a86f774633006b146",
+	"Items": [
+		{
+			"_id": "5eb3dd0a86f774633006b146",
+			"_tpl": "5672cb304bdc2dc2088b456a"
+		}
+	]
+}

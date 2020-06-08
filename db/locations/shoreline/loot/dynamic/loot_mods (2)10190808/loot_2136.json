@@ -1,0 +1,44 @@
+{
+	"Id": "loot_mods (2)10190808",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -222.565231,
+		"y": -33.813324,
+		"z": 187.10498
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f48e686b7e287034463f",
+	"Items": [
+		{
+			"_id": "5ec3f48e686b7e287034463f",
+			"_tpl": "5addccf45acfc400185c2989"
+		},
+		{
+			"_id": "5ec3f48e686b7e2870344640",
+			"_tpl": "5e023e88277cce2b522ff2b1",
+			"parentId": "5ec3f48e686b7e287034463f",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 40
+			}
+		},
+		{
+			"_id": "5ec3f48e686b7e2870344641",
+			"_tpl": "5e023e88277cce2b522ff2b1",
+			"parentId": "5ec3f48e686b7e287034463f",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 4
+			}
+		}
+	]
+}

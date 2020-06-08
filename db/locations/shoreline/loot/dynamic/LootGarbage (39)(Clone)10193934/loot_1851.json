@@ -1,0 +1,34 @@
+{
+	"Id": "LootGarbage (39)(Clone)10193934",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 336.639343,
+		"y": -58.91,
+		"z": 311.427582
+	},
+	"Rotation": {
+		"x": 0.0000206688765,
+		"y": 262.711243,
+		"z": -0.0000364025254
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f47f2dfcb75c1633e2b1",
+	"Items": [
+		{
+			"_id": "5ec3f47f2dfcb75c1633e2b1",
+			"_tpl": "576a5ed62459771e9c2096cb"
+		},
+		{
+			"_id": "5ec3f47f2dfcb75c1633e2b2",
+			"_tpl": "5c925fa22e221601da359b7b",
+			"parentId": "5ec3f47f2dfcb75c1633e2b1",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 9
+			}
+		}
+	]
+}

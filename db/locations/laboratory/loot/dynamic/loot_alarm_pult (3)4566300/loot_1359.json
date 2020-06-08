@@ -1,0 +1,68 @@
+{
+	"Id": "loot_alarm_pult (3)4566300",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -181.633011,
+		"y": 1.09229994,
+		"z": -356.657562
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": true,
+	"GroupPositions": [
+		{
+			"Name": "groupPosition[0]",
+			"Weight": 33,
+			"Position": {
+				"x": -181.633011,
+				"y": 1.09229994,
+				"z": -356.657562
+			},
+			"Rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"Name": "groupPosition[1]",
+			"Weight": 33,
+			"Position": {
+				"x": -172.989716,
+				"y": 5.138,
+				"z": -343.798859
+			},
+			"Rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"Name": "groupPosition[2]",
+			"Weight": 33,
+			"Position": {
+				"x": -231.327515,
+				"y": 5.269,
+				"z": -312.286743
+			},
+			"Rotation": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		}
+	],
+	"Root": "5eb3dd7a86f77413fe6ae9d2",
+	"Items": [
+		{
+			"_id": "5eb3dd7a86f77413fe6ae9d2",
+			"_tpl": "5c1d0d6d86f7744bb2683e1f"
+		}
+	]
+}

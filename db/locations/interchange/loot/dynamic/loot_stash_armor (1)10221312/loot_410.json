@@ -1,0 +1,25 @@
+{
+	"Id": "loot_stash_armor (1)10221312",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": true,
+	"Position": {
+		"x": -58.94359,
+		"y": 20.37881,
+		"z": -289.459351
+	},
+	"Rotation": {
+		"x": 274.591766,
+		"y": 90.05342,
+		"z": 181.853134
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcee86f77447365db554",
+	"Items": [
+		{
+			"_id": "5eb3dcee86f77447365db554",
+			"_tpl": "5c0e655586f774045612eeb2"
+		}
+	]
+}

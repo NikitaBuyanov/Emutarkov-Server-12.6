@@ -1,0 +1,118 @@
+{
+	"Id": "Lootable_002324",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f478db7ec26edf35337c",
+	"Items": [
+		{
+			"_id": "5ec3f478db7ec26edf35337c",
+			"_tpl": "578f8782245977354405a1e3"
+		},
+		{
+			"_id": "5ec3f478db7ec26edf35337d",
+			"_tpl": "5448bd6b4bdc2dfc2f8b4569",
+			"parentId": "5ec3f478db7ec26edf35337c",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f478db7ec26edf35337e",
+			"_tpl": "5448c12b4bdc2d02308b456f",
+			"parentId": "5ec3f478db7ec26edf35337d",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f478db7ec26edf35337f",
+			"_tpl": "573719762459775a626ccbc1",
+			"parentId": "5ec3f478db7ec26edf35337e",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 4
+			}
+		},
+		{
+			"_id": "5ec3f478db7ec26edf353380",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5ec3f478db7ec26edf35337c",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 1084
+			}
+		},
+		{
+			"_id": "5ec3f478db7ec26edf353381",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5ec3f478db7ec26edf35337c",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 914
+			}
+		},
+		{
+			"_id": "5ec3f478db7ec26edf353382",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5ec3f478db7ec26edf35337c",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 836
+			}
+		},
+		{
+			"_id": "5ec3f478db7ec26edf353383",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5ec3f478db7ec26edf35337c",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 1009
+			}
+		},
+		{
+			"_id": "5ec3f478db7ec26edf353384",
+			"_tpl": "573474f924597738002c6174",
+			"parentId": "5ec3f478db7ec26edf35337c",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": 0
+			}
+		}
+	]
+}

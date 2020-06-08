@@ -1,0 +1,21 @@
+{
+	"_id": "wild_body_offer",
+	"tid": "579dc571d53a0658a154fbec",
+	"suiteId": "wild_body",
+	"isActive": true,
+	"requirements": {
+		"loyaltyLevel": 0,
+		"profileLevel": 15,
+		"standing": 0,
+		"skillRequirements": [],
+		"questRequirements": [
+			"596b455186f77457cb50eccb"
+		],
+		"itemRequirements": [
+			{
+				"count": 75000,
+				"_tpl": "5449016a4bdc2d6f028b456f"
+			}
+		]
+	}
+}

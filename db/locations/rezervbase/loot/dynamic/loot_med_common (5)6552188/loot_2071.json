@@ -1,0 +1,25 @@
+{
+	"Id": "loot_med_common (5)6552188",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 85.01672,
+		"y": -6.103255,
+		"z": -18.7357483
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd2a86f77468595af8dc",
+	"Items": [
+		{
+			"_id": "5eb3dd2a86f77468595af8dc",
+			"_tpl": "544fb37f4bdc2dee738b4567"
+		}
+	]
+}

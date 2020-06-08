@@ -1,0 +1,28 @@
+{
+	"Id": "Loot 2006935144",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 358.531,
+		"y": 2.229,
+		"z": -9.671
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 226.335648,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0886f77468595af2fc",
+	"Items": [
+		{
+			"_id": "5eb3dd0886f77468595af2fc",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"upd": {
+				"StackObjectsCount": 666
+			}
+		}
+	]
+}

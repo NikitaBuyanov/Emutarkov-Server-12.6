@@ -1,0 +1,61 @@
+{
+	"Id": "Loot_vild_MBSS[4] (6)2287214",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -346.472046,
+		"y": 0.43,
+		"z": 159.001
+	},
+	"Rotation": {
+		"x": 5.289611,
+		"y": 95.12472,
+		"z": 342.0733
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0686f77466383c8eb9",
+	"Items": [
+		{
+			"_id": "5eb3dd0686f77466383c8eb9",
+			"_tpl": "56e335e4d2720b6c058b456d"
+		},
+		{
+			"_id": "5eb3dd0686f77466383c8eba",
+			"_tpl": "593d1fa786f7746da62d61ac",
+			"parentId": "5eb3dd0686f77466383c8eb9",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0686f77466383c8ebb",
+			"_tpl": "560d5e524bdc2d25448b4571",
+			"parentId": "5eb3dd0686f77466383c8eb9",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 6
+			}
+		},
+		{
+			"_id": "5eb3dd0686f77466383c8ebc",
+			"_tpl": "5a0c59791526d8dba737bba7",
+			"parentId": "5eb3dd0686f77466383c8eb9",
+			"slotId": "main",
+			"location": {
+				"x": 3,
+				"y": 0,
+				"r": 0
+			}
+		}
+	]
+}

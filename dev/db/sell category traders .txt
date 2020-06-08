@@ -1,0 +1,206 @@
+-----------Prapor: ---------------------
+barter_others
+barter_building
+barter_electronics
+barter_energy
+barter_flammable
+barter_household
+barter_medical
+barter_tools
+barter_valuables
+
+
+headsets
+armor
+visors
+components
+facecover
+helmet
+
+medical
+keys
+
+
+----------- Therapist: ----------------
+barter_others
+barter_building
+barter_electronics
+barter_energy
+barter_energy
+barter_flammable
+barter_household
+barter_medical
+barter_tools
+barter_valuables
+
+gear_cases
+
+provisions
+medical
+keys 
+info
+maps
+
+--------------------- Fence: EVERYTHING ---------------------
+--------------------- Skier:---------------------------------
+
+backpack
+armor
+facecovers
+components
+headsets
+helmet
+rig
+visors
+
+
+
+------------- Peacekeeper: -------------
+barter_others
+barter_building
+barter_electronics
+barter_energy
+barter_flammable
+barter_household
+barter_medical
+barter_tools
+barter_valuables
+
+
+armor
+facecovers
+components
+headsets
+helmet
+visors
+
+info
+
+------------ Mechanic:-----------------
+barter_electronics
+
+
+----------------Ragman: ------------------
+barter_others
+barter_building
+barter_electronics
+barter_energy
+barter_flammable
+barter_household
+barter_medical
+barter_tools
+barter_valuables
+
+backpack
+armor
+facecovers
+components
+headsets
+helmet
+rig
+visors
+
+--------------------Jaeger: --------------------
+barter_energy
+barter_medical
+
+backpack
+armor
+facecovers
+components
+headsetshelmet
+rig
+visors
+
+provision
+medical
+keys
+
+________________________________________________________
+
+"5b47574386f77428ca22b33e" : barter
+	"5b47574386f77428ca22b2f4" : barter_others
+	"5b47574386f77428ca22b2ed" : barter_energy
+	"5b47574386f77428ca22b2ee" : barter_building
+	"5b47574386f77428ca22b2ef" : barter_electronics
+	"5b47574386f77428ca22b2f0" : barter_household
+	"5b47574386f77428ca22b2f2" : barter_flammable
+	"5b47574386f77428ca22b2f3" : barter_medical
+	"5b47574386f77428ca22b2f6" : barter_tools
+	"5b47574386f77428ca22b2f1" : barter_valuables
+
+"5b47574386f77428ca22b33f" : gear
+	"5b5f701386f774093f2ecf0f" : gear_armor
+	"5b5f6f6c86f774093f2ecf0b" : gear_backpacks
+	"5b5f6fa186f77409407a7eb7" : gear_cases
+	"5b47574386f77428ca22b32f" : gear_facecovers
+	"5b5f704686f77447ec5d76d7" : gear_components
+	"5b5f6f3c86f774094242ef87" : gear_headsets
+	"5b47574386f77428ca22b330" : gear_headwear
+	"5b5f6fd286f774093f2ecf0d" : gear_secured
+	"5b5f6f8786f77447ed563642" : gear_rigs
+	"5b47574386f77428ca22b331" : gear_visors
+
+"5b5f71a686f77447ed5636ab" : mods
+	"5b5f71b386f774093f2ecf11" : mods_functional
+		"5b5f74cc86f77447ec5d770a" : mod_aux
+		"5b5f71c186f77409407a7ec0" : mod_bipod
+		"5b5f71de86f774093f2ecf13" : mod_tactical
+		"5b5f736886f774094242f193" : mod_lightlaser
+		"5b5f724186f77447ed5636ad" : mod_muzzle
+		"5b5f73ec86f774093e6cb4fd" : mod_sight
+		
+	"5b5f750686f774093e6cb503" : mods_gear
+		"5b5f751486f77447ec5d770c" : mod_charge
+		"5b5f752e86f774093e6cb505" : mod_launcher
+		"5b5f754a86f774094242f19b" : mod_magazine
+		"5b5f755f86f77447ec5d770e" : mod_mount
+		"5b5f757486f774093e6cb507" : mod_stock
+		"5b5f759686f774094242f19d" : mod_tactical
+
+	"5b5f75b986f77447ec5d7710" : mods_vital
+		"5b5f75c686f774094242f19f" : mod_barrel
+		"5b5f75e486f77447ec5d7712" : mod_handguard
+		"5b5f760586f774093e6cb509" : mod_gasblock
+		"5b5f761f86f774094242f1a1" : mod_pistolgrip
+		"5b5f764186f77447ec5d7714" : mod_reciever
+
+"5b5f78dc86f77409407a7f8e" : weapons
+	"5b5f78e986f77447ed5636b1" : weapons_carbines
+	"5b5f78fc86f77409407a7f90" : weapons_assaultrifles
+	"5b5f791486f774093f2ed3be" : weapons_dmr
+	"5b5f792486f77447ed5636b3" : weapons_pistols
+	"5b5f794b86f77409407a7f92" : weapons_shotguns
+	"5b5f796a86f774093f2ed3c0" : weapons_smg
+	"5b5f798886f77447ed5636b5" : weapons_botaction
+	"5b5f79a486f77409407a7f94" : weapons_mg
+	"5b5f79d186f774093f2ed3c2" : weapons_gl
+	"5b5f79eb86f77447ed5636b7" : weapons_special
+	"5b5f7a0886f77409407a7f96" : weapons_melee
+	"5b5f7a2386f774093f2ed3c4" : weapons_throw
+
+"5b47574386f77428ca22b346" : ammo
+	"5b47574386f77428ca22b33b" : ammo_rounds
+	"5b47574386f77428ca22b33c" : ammo_boxes
+
+"5b47574386f77428ca22b340" : provisions
+	"5b47574386f77428ca22b335" : provisions_drinks
+	"5b47574386f77428ca22b336" : provisions_food
+
+
+"5b47574386f77428ca22b344" : medical
+	"5b47574386f77428ca22b337" : medical_pills
+	"5b47574386f77428ca22b338" : medical_medkits
+	"5b47574386f77428ca22b339" : medical_injury
+	"5b47574386f77428ca22b33a" : medical_injectors
+
+"5b47574386f77428ca22b342" : keys
+	"5c518ec986f7743b68682ce2" : keys_mechanic
+	"5c518ed586f774119a772aee" : keys_electronic
+
+"5b47574386f77428ca22b341" : info
+"5b47574386f77428ca22b345" : spec
+"5b47574386f77428ca22b343" : maps
+"5b5f78b786f77447ed5636af" : money
+
+"5b619f1a86f77450a702a6f3" : quest

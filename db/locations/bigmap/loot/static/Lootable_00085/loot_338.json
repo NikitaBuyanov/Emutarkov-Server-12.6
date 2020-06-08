@@ -1,0 +1,131 @@
+{
+	"Id": "Lootable_00085",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd3486f77447365dc0ea",
+	"Items": [
+		{
+			"_id": "5eb3dd3486f77447365dc0ea",
+			"_tpl": "578f8782245977354405a1e3"
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0eb",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 638
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0ec",
+			"_tpl": "573474f924597738002c6174",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0ed",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 588
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0ee",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 854
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0ef",
+			"_tpl": "590de71386f774347051a052",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0f0",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 972
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0f1",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 916
+			}
+		},
+		{
+			"_id": "5eb3dd3486f77447365dc0f2",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd3486f77447365dc0ea",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 2,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 937
+			}
+		}
+	]
+}

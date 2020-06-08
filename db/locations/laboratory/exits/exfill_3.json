@@ -1,0 +1,15 @@
+{
+	"Name": "lab_Under_Storage_Collector",
+	"EntryPoints": "Common",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 10,
+	"PassageRequirement": "WorldEvent",
+	"ExfiltrationType": "Individual",
+	"Id": "",
+	"Count": 0,
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"RequirementTip": ""
+}

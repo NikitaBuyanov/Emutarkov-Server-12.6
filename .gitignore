@@ -1,0 +1,23 @@
+## emutarkov-server
+[Dd]ev/[Bb]in/
+[Dd]ev/[Oo]utput/
+[Uu]ser/[Ll]ogs/
+[Uu]ser/[Cc]ache/
+[Uu]ser/[Ee]vents/
+[Uu]ser/[Pp]rofiles/
+[Uu]ser/[Mm]ods/
+package-lock.json
+EmuTarkov-Server.exe
+
+## visual studio
+.vs
+.idea
+slnx.sqlite
+slnx-journal.sqlite
+
+## nodejs
+node_modules
+node.exe
+
+## windows
+desktop.ini

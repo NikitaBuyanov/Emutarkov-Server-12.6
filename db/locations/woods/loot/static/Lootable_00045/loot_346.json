@@ -1,0 +1,119 @@
+{
+	"Id": "Lootable_00045",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd1e86f77468595af698",
+	"Items": [
+		{
+			"_id": "5eb3dd1e86f77468595af698",
+			"_tpl": "5909d45286f77465a8136dc6"
+		},
+		{
+			"_id": "5eb3dd1e86f77468595af699",
+			"_tpl": "57372c89245977685d4159b1",
+			"parentId": "5eb3dd1e86f77468595af698",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af69a",
+			"_tpl": "56dff061d2720bb5668b4567",
+			"parentId": "5eb3dd1e86f77468595af699",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af69b",
+			"_tpl": "57372bd3245977670b7cd243",
+			"parentId": "5eb3dd1e86f77468595af698",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af69c",
+			"_tpl": "56dff026d2720bb8668b4567",
+			"parentId": "5eb3dd1f86f77468595af69b",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af69d",
+			"_tpl": "560d61e84bdc2da74d8b4571",
+			"parentId": "5eb3dd1e86f77468595af698",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 14
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af69e",
+			"_tpl": "57372e4a24597768553071c2",
+			"parentId": "5eb3dd1e86f77468595af698",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af69f",
+			"_tpl": "56dff338d2720bbd668b4569",
+			"parentId": "5eb3dd1f86f77468595af69e",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af6a0",
+			"_tpl": "560d75f54bdc2da74d8b4573",
+			"parentId": "5eb3dd1e86f77468595af698",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd1f86f77468595af6a1",
+			"_tpl": "560d61e84bdc2da74d8b4571",
+			"parentId": "5eb3dd1f86f77468595af6a0",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		}
+	]
+}

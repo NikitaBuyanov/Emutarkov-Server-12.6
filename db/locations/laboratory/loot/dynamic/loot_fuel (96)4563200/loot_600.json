@@ -1,0 +1,25 @@
+{
+	"Id": "loot_fuel (96)4563200",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -233.09,
+		"y": -3.415,
+		"z": -397.995
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd8086f77413fe6aee47",
+	"Items": [
+		{
+			"_id": "5eb3dd8086f77413fe6aee47",
+			"_tpl": "590a373286f774287540368b"
+		}
+	]
+}

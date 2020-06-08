@@ -1,0 +1,15 @@
+{
+	"Name": "EXFIL_ScavCooperation",
+	"EntryPoints": "Common",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 8,
+	"PassageRequirement": "ScavCooperation",
+	"ExfiltrationType": "SharedTimer",
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"Id": "",
+	"RequirementTip": "EXFIL_Cooperate",
+	"Count": 0
+}

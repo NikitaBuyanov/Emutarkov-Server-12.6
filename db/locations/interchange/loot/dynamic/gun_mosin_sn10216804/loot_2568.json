@@ -1,0 +1,69 @@
+{
+	"Id": "gun_mosin_sn10216804",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": 210.92807,
+		"y": 33.6748123,
+		"z": 214.663849
+	},
+	"Rotation": {
+		"x": 359.984436,
+		"y": 339.742523,
+		"z": 269.9579
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd4386f77466383c9308",
+	"Items": [
+		{
+			"_id": "5eb3dd4386f77466383c9308",
+			"_tpl": "5bfd297f0db834001a669119",
+			"upd": {
+				"FireMode": {
+					"FireMode": "single"
+				}
+			}
+		},
+		{
+			"_id": "5eb3dd4386f77466383c9309",
+			"_tpl": "5ae0973a5acfc4001562206c",
+			"parentId": "5eb3dd4386f77466383c9308",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd4386f77466383c930e",
+			"_tpl": "5887431f2459777e1612938f",
+			"parentId": "5eb3dd4386f77466383c9309",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 2
+			}
+		},
+		{
+			"_id": "5eb3dd4386f77466383c930a",
+			"_tpl": "5bfd35380db83400232fe5cc",
+			"parentId": "5eb3dd4386f77466383c9308",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dd4386f77466383c930b",
+			"_tpl": "5ae09bff5acfc4001562219d",
+			"parentId": "5eb3dd4386f77466383c9308",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "5eb3dd4386f77466383c930c",
+			"_tpl": "5ae099875acfc4001714e593",
+			"parentId": "5eb3dd4386f77466383c930b",
+			"slotId": "mod_sight_front"
+		},
+		{
+			"_id": "5eb3dd4386f77466383c930d",
+			"_tpl": "5ae099925acfc4001a5fc7b3",
+			"parentId": "5eb3dd4386f77466383c930b",
+			"slotId": "mod_sight_rear"
+		}
+	]
+}

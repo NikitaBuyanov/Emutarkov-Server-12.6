@@ -1,0 +1,106 @@
+{
+	"Id": "Lootable_00381",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf986f77468595aeb4b",
+	"Items": [
+		{
+			"_id": "5eb3dcf986f77468595aeb4b",
+			"_tpl": "5909d76c86f77471e53d2adf"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb4c",
+			"_tpl": "5a9fbacda2750c00141e080f",
+			"parentId": "5eb3dcf986f77468595aeb4b",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb4d",
+			"_tpl": "5de7bd7bfd6b4e6e2276dc25",
+			"parentId": "5eb3dcf986f77468595aeb4b",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"Foldable": {
+					"Folded": false
+				},
+				"FireMode": {
+					"FireMode": "single"
+				}
+			}
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb4e",
+			"_tpl": "5de8eac42a78646d96665d91",
+			"parentId": "5eb3dcf986f77468595aeb4d",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb55",
+			"_tpl": "58864a4f2459770fcc257101",
+			"parentId": "5eb3dcf986f77468595aeb4e",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 18
+			}
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb4f",
+			"_tpl": "5de910da8b6c4240ba2651b5",
+			"parentId": "5eb3dcf986f77468595aeb4d",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb50",
+			"_tpl": "5de8fbad2fbe23140d3ee9c4",
+			"parentId": "5eb3dcf986f77468595aeb4d",
+			"slotId": "mod_foregrip"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb51",
+			"_tpl": "5de8e67c4a9f347bc92edbd7",
+			"parentId": "5eb3dcf986f77468595aeb4d",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb52",
+			"_tpl": "5de8fb539f98ac2bc659513a",
+			"parentId": "5eb3dcf986f77468595aeb51",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb53",
+			"_tpl": "5de8fc0b205ddc616a6bc51b",
+			"parentId": "5eb3dcf986f77468595aeb51",
+			"slotId": "mod_mount"
+		},
+		{
+			"_id": "5eb3dcf986f77468595aeb54",
+			"_tpl": "5de922d4b11454561e39239f",
+			"parentId": "5eb3dcf986f77468595aeb4d",
+			"slotId": "mod_charge"
+		}
+	]
+}

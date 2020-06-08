@@ -1,0 +1,25 @@
+{
+	"Id": "loot_auto_stuff (11)10212328",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -16.7976074,
+		"y": 28.6518135,
+		"z": 192.299683
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0a86f774633006b033",
+	"Items": [
+		{
+			"_id": "5eb3dd0a86f774633006b033",
+			"_tpl": "590a3c0a86f774385a33c450"
+		}
+	]
+}

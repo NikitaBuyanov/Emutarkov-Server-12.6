@@ -1,0 +1,106 @@
+{
+	"Id": "Lootable_00244",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f46f4782e749ea3f821a",
+	"Items": [
+		{
+			"_id": "5ec3f46f4782e749ea3f821a",
+			"_tpl": "5d6d2bb386f774785b07a77a"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f821b",
+			"_tpl": "5c1127bdd174af44217ab8b9",
+			"parentId": "5ec3f46f4782e749ea3f821a",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f821c",
+			"_tpl": "5c0d56a986f774449d5de529",
+			"parentId": "5ec3f46f4782e749ea3f821b",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 20
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f821d",
+			"_tpl": "5ba26383d4351e00334c93d9",
+			"parentId": "5ec3f46f4782e749ea3f821a",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 1
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f821e",
+			"_tpl": "5ba264f6d4351e0034777d52",
+			"parentId": "5ec3f46f4782e749ea3f821d",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f8223",
+			"_tpl": "5ba2678ad4351e44f824b344",
+			"parentId": "5ec3f46f4782e749ea3f821e",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 12
+			}
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f821f",
+			"_tpl": "5ba26acdd4351e003562908e",
+			"parentId": "5ec3f46f4782e749ea3f821d",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f8220",
+			"_tpl": "5ba26b01d4351e0085325a51",
+			"parentId": "5ec3f46f4782e749ea3f821d",
+			"slotId": "mod_sight_front"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f8221",
+			"_tpl": "5ba26b17d4351e00367f9bdd",
+			"parentId": "5ec3f46f4782e749ea3f821d",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f8222",
+			"_tpl": "5bcf0213d4351e0085327c17",
+			"parentId": "5ec3f46f4782e749ea3f821d",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5ec3f46f4782e749ea3f8224",
+			"_tpl": "544fb3364bdc2d34748b456a",
+			"parentId": "5ec3f46f4782e749ea3f821a",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			}
+		}
+	]
+}

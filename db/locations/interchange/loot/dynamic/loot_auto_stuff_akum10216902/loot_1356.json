@@ -1,0 +1,25 @@
+{
+	"Id": "loot_auto_stuff_akum10216902",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -152.996582,
+		"y": 28.22781,
+		"z": 19.1306152
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0b86f7745df52fa127",
+	"Items": [
+		{
+			"_id": "5eb3dd0b86f7745df52fa127",
+			"_tpl": "5733279d245977289b77ec24"
+		}
+	]
+}

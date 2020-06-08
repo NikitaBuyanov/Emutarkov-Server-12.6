@@ -1,0 +1,36 @@
+{
+	"BossName": "bossGluhar",
+	"BossChance": 28,
+	"BossZone": "ZoneRailStrorage,ZoneRailStrorage,ZoneRailStrorage,ZonePTOR1,ZonePTOR2,ZoneBarrack,ZoneBarrack,ZoneBarrack,ZoneSubStorage",
+	"BossPlayer": false,
+	"BossDifficult": "normal",
+	"BossEscortType": "followerGluharAssault",
+	"BossEscortDifficult": "normal",
+	"BossEscortAmount": "2",
+	"Time": 1,
+	"TriggerId": "",
+	"TriggerName": "",
+	"Supports": [
+		{
+			"BossEscortType": "followerGluharAssault",
+			"BossEscortDifficult": [
+				"normal"
+			],
+			"BossEscortAmount": "2"
+		},
+		{
+			"BossEscortType": "followerGluharSecurity",
+			"BossEscortDifficult": [
+				"normal"
+			],
+			"BossEscortAmount": "2"
+		},
+		{
+			"BossEscortType": "followerGluharScout",
+			"BossEscortDifficult": [
+				"normal"
+			],
+			"BossEscortAmount": "2"
+		}
+	]
+}

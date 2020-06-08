@@ -1,0 +1,58 @@
+{
+	"Id": "Lootable_00092",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd4786f7745ed711398c",
+	"Items": [
+		{
+			"_id": "5eb3dd4786f7745ed711398c",
+			"_tpl": "578f87b7245977356274f2cd"
+		},
+		{
+			"_id": "5eb3dd4786f7745ed711398d",
+			"_tpl": "573478bc24597738002c6175",
+			"parentId": "5eb3dd4786f7745ed711398c",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd4786f7745ed711398e",
+			"_tpl": "57347b8b24597737dd42e192",
+			"parentId": "5eb3dd4786f7745ed711398c",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd4786f7745ed711398f",
+			"_tpl": "56742c284bdc2d98058b456d",
+			"parentId": "5eb3dd4786f7745ed711398c",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"Id": "LootAmmoBoxesAR (2)2289750",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 246.486,
+		"y": -8.109,
+		"z": 129.61
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0486f7745e03478455",
+	"Items": [
+		{
+			"_id": "5eb3dd0486f7745e03478455",
+			"_tpl": "5c1262a286f7743f8a69aab2"
+		},
+		{
+			"_id": "5eb3dd0486f7745e03478456",
+			"_tpl": "5c0d5e4486f77478390952fe",
+			"parentId": "5eb3dd0486f7745e03478455",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"Id": "Lootable_00394",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd4486f77466383c964d",
+	"Items": [
+		{
+			"_id": "5eb3dd4486f77466383c964d",
+			"_tpl": "5909d76c86f77471e53d2adf"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c964e",
+			"_tpl": "59e6687d86f77411d949b251",
+			"parentId": "5eb3dd4486f77466383c964d",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd4486f77466383c964f",
+			"_tpl": "59e649f986f77411d949b246",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9656",
+			"_tpl": "59e898ee86f77427614bd225",
+			"parentId": "5eb3dd4486f77466383c964f",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9650",
+			"_tpl": "59e8a00d86f7742ad93b569c",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9651",
+			"_tpl": "59e6318286f77444dd62c4cc",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9652",
+			"_tpl": "59e6449086f7746c9f75e822",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9653",
+			"_tpl": "59e8977386f77415a553c453",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9654",
+			"_tpl": "59e89d0986f77427600d226e",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9655",
+			"_tpl": "59d625f086f774661516605d",
+			"parentId": "5eb3dd4486f77466383c964e",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9657",
+			"_tpl": "59e6542b86f77411dc52a77a",
+			"parentId": "5eb3dd4486f77466383c9655",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 24
+			}
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9658",
+			"_tpl": "5448c1d04bdc2dff2f8b4569",
+			"parentId": "5eb3dd4486f77466383c964d",
+			"slotId": "main",
+			"location": {
+				"x": 5,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd4486f77466383c9659",
+			"_tpl": "5d2c76ed48f03532f2136169",
+			"parentId": "5eb3dd4486f77466383c964d",
+			"slotId": "main",
+			"location": {
+				"x": 5,
+				"y": 1,
+				"r": 1
+			}
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"Name": "EXFIL_Bunker",
+	"EntryPoints": "Common",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 18,
+	"PassageRequirement": "WorldEvent",
+	"ExfiltrationType": "Individual",
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"Id": "",
+	"RequirementTip": "EXFIL_BUNKER_POWER",
+	"Count": 0
+}

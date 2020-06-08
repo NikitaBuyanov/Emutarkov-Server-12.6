@@ -1,0 +1,14 @@
+{
+	"Name": "Factory Gate",
+	"EntryPoints": "House,Old Station",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 20,
+	"PassageRequirement": "ScavCooperation",
+	"ExfiltrationType": "SharedTimer",
+	"Id": "",
+	"Count": 0,
+	"RequirementTip": "EXFIL_Cooperate"
+}

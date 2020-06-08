@@ -1,0 +1,68 @@
+{
+	"Id": "loot_office_key4566204",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": false,
+	"Position": {
+		"x": -226.354156,
+		"y": 0.89188236,
+		"z": -410.242279
+	},
+	"Rotation": {
+		"x": 283.022858,
+		"y": 270,
+		"z": 71.24696
+	},
+	"IsGroupPosition": true,
+	"GroupPositions": [
+		{
+			"Name": "groupPosition[0]",
+			"Weight": 33,
+			"Position": {
+				"x": -197.89,
+				"y": 5.0023,
+				"z": -408.474121
+			},
+			"Rotation": {
+				"x": 272.888458,
+				"y": 180.000031,
+				"z": 135.101318
+			}
+		},
+		{
+			"Name": "groupPosition[1]",
+			"Weight": 33,
+			"Position": {
+				"x": -226.354156,
+				"y": 0.89188236,
+				"z": -410.242279
+			},
+			"Rotation": {
+				"x": 283.022858,
+				"y": 270,
+				"z": 71.24696
+			}
+		},
+		{
+			"Name": "groupPosition[2]",
+			"Weight": 33,
+			"Position": {
+				"x": -158.392014,
+				"y": 0.8194107,
+				"z": -393.0338
+			},
+			"Rotation": {
+				"x": 270.463074,
+				"y": 0.00042227676,
+				"z": 313.9786
+			}
+		}
+	],
+	"Root": "5eb3dd7e86f7747a1021b6e4",
+	"Items": [
+		{
+			"_id": "5eb3dd7e86f7747a1021b6e4",
+			"_tpl": "5c1e2a1e86f77431ea0ea84c"
+		}
+	]
+}

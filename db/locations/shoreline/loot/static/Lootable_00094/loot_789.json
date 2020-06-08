@@ -1,0 +1,104 @@
+{
+	"Id": "Lootable_00094",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f4612dfcb75c1633dd06",
+	"Items": [
+		{
+			"_id": "5ec3f4612dfcb75c1633dd06",
+			"_tpl": "5909d76c86f77471e53d2adf"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd07",
+			"_tpl": "5d120a10d7ad1a4e1026ba85",
+			"parentId": "5ec3f4612dfcb75c1633dd06",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd08",
+			"_tpl": "5ab8e9fcd8ce870019439434",
+			"parentId": "5ec3f4612dfcb75c1633dd06",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd09",
+			"_tpl": "59c6633186f7740cf0493bb9",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd10",
+			"_tpl": "5648b0744bdc2d363b8b4578",
+			"parentId": "5ec3f4612dfcb75c1633dd09",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd0a",
+			"_tpl": "5649aa744bdc2ded0b8b457e",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd0b",
+			"_tpl": "57e3dba62459770f0c32322b",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd0c",
+			"_tpl": "5649af094bdc2df8348b4586",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd0d",
+			"_tpl": "5649b0544bdc2d1b2b8b458a",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd0e",
+			"_tpl": "5ab626e4d8ce87272e4c6e43",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd0f",
+			"_tpl": "564ca99c4bdc2d16268b4589",
+			"parentId": "5ec3f4612dfcb75c1633dd08",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f4612dfcb75c1633dd11",
+			"_tpl": "56dff3afd2720bba668b4567",
+			"parentId": "5ec3f4612dfcb75c1633dd0f",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 25
+			}
+		}
+	]
+}

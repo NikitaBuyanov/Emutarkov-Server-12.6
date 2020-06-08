@@ -1,0 +1,25 @@
+{
+	"Id": "loot_rare_mix_food_med_ammo (26)10215138",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 163.786377,
+		"y": 19.86581,
+		"z": -368.546326
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 220,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd4386f77466383c94d5",
+	"Items": [
+		{
+			"_id": "5eb3dd4386f77466383c94d5",
+			"_tpl": "544fb3364bdc2d34748b456a"
+		}
+	]
+}

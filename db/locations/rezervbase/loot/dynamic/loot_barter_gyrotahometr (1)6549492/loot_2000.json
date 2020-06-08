@@ -1,0 +1,25 @@
+{
+	"Id": "loot_barter_gyrotahometr (1)6549492",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 233.802979,
+		"y": -10.015,
+		"z": -8.789978
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd2a86f77468595af85d",
+	"Items": [
+		{
+			"_id": "5eb3dd2a86f77468595af85d",
+			"_tpl": "5d03784a86f774203e7e0c4d"
+		}
+	]
+}

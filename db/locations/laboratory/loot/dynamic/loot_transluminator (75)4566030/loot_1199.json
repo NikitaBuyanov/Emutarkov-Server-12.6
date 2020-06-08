@@ -1,0 +1,25 @@
+{
+	"Id": "loot_transluminator (75)4566030",
+	"IsStatic": false,
+	"useGravity": false,
+	"randomRotation": true,
+	"Position": {
+		"x": -173.7443,
+		"y": 1.2538,
+		"z": -374.4323
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd8086f7747a087d874a",
+	"Items": [
+		{
+			"_id": "5eb3dd8086f7747a087d874a",
+			"_tpl": "5c0530ee86f774697952d952"
+		}
+	]
+}

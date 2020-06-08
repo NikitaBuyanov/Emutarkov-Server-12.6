@@ -1,0 +1,105 @@
+{
+	"Id": "Lootable_00308",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f476db7ec26edf353212",
+	"Items": [
+		{
+			"_id": "5ec3f476db7ec26edf353212",
+			"_tpl": "5909d76c86f77471e53d2adf"
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353213",
+			"_tpl": "5448bd6b4bdc2dfc2f8b4569",
+			"parentId": "5ec3f476db7ec26edf353212",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353214",
+			"_tpl": "5448c12b4bdc2d02308b456f",
+			"parentId": "5ec3f476db7ec26edf353213",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353215",
+			"_tpl": "573719762459775a626ccbc1",
+			"parentId": "5ec3f476db7ec26edf353214",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 4
+			}
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353216",
+			"_tpl": "55d482194bdc2d1d4e8b456b",
+			"parentId": "5ec3f476db7ec26edf353212",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353217",
+			"_tpl": "574d967124597745970e7c94",
+			"parentId": "5ec3f476db7ec26edf353212",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": 0
+			},
+			"upd": {
+				"FireMode": {
+					"FireMode": "single"
+				}
+			}
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353218",
+			"_tpl": "574dad8024597745964bf05c",
+			"parentId": "5ec3f476db7ec26edf353217",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5ec3f476db7ec26edf353219",
+			"_tpl": "574db213245977459a2f3f5d",
+			"parentId": "5ec3f476db7ec26edf353217",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5ec3f476db7ec26edf35321a",
+			"_tpl": "587df3a12459772c28142567",
+			"parentId": "5ec3f476db7ec26edf353217",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5ec3f476db7ec26edf35321b",
+			"_tpl": "5656d7c34bdc2d9d198b4587",
+			"parentId": "5ec3f476db7ec26edf35321a",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 6
+			}
+		}
+	]
+}

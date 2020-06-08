@@ -1,0 +1,146 @@
+{
+	"Enabled": true,
+	"Locked": false,
+	"Insurance": true,
+	"SafeLocation": false,
+	"Name": "Customs",
+	"Description": "Very Big Map",
+	"Scene": {
+		"path": "maps/customs_preset.bundle",
+		"rcid": "bigmap.scenespreset.asset"
+	},
+	"Area": 0,
+	"RequiredPlayerLevel": 0,
+	"surv_gather_minutes": 1,
+	"MinPlayers": 7,
+	"MaxPlayers": 12,
+	"sav_gather_minutes": 1,
+	"exit_count": 2,
+	"exit_access_time": 60,
+	"exit_time": 1,
+	"Preview": {
+		"path": "",
+		"rcid": ""
+	},
+	"IconX": 456,
+	"IconY": 443,
+	"filter_ex": [],
+	"waves": [],
+	"limits": [],
+	"AveragePlayTime": 25,
+	"AveragePlayerLevel": 20,
+	"escape_time_limit": 40,
+	"Rules": "AvoidAllPmc",
+	"IsSecret": false,
+	"doors": [],
+	"tmp_location_field_remove_me": 0,
+	"MinDistToExitPoint": 30,
+	"MaxDistToFreePoint": 550,
+	"MinDistToFreePoint": 110,
+	"MaxBotPerZone": 5,
+	"OpenZones": "ZoneBrige,ZoneCrossRoad,ZoneFactorySide,ZoneOldAZS,ZoneBlock,Post,ZoneTankSquare,ZoneCustoms",
+	"OcculsionCullingEnabled": false,
+	"GlobalLootChanceModifier": 1,
+	"OldSpawn": true,
+	"NewSpawn": false,
+	"BotMax": 0,
+	"BotStart": 0,
+	"BotStop": 0,
+	"BotMaxTimePlayer": 0,
+	"BotSpawnTimeOnMin": 0,
+	"BotSpawnTimeOnMax": 0,
+	"BotSpawnTimeOffMin": 0,
+	"BotSpawnTimeOffMax": 0,
+	"BotMaxPlayer": 0,
+	"BotEasy": 0,
+	"BotNormal": 0,
+	"BotHard": 0,
+	"BotImpossible": 0,
+	"BotAssault": 0,
+	"BotMarksman": 0,
+	"DisabledScavExits": "",
+	"AccessKeys": [],
+	"MinMaxBots": [
+		{
+			"min": 2,
+			"max": 10,
+			"WildSpawnType": "marksman"
+		}
+	],
+	"BotLocationModifier": {
+		"AccuracySpeed": 1,
+		"Scattering": 1,
+		"GainSight": 1,
+		"MarksmanAccuratyCoef": 1,
+		"VisibleDistance": 1,
+		"DistToActivate": 265,
+		"DistToSleep": 300,
+		"MagnetPower": 44,
+		"DistToPersueAxemanCoef": 0.7
+	},
+	"exits": [],
+	"DisabledForScav": false,
+	"BossLocationSpawn": [],
+	"Id": "bigmap",
+	"_Id": "56f40101d2720b2a4d8b45d6",
+	"Loot": [],
+	"SpawnAreas": [],
+	"Banners": [
+		{
+			"id": "5464e0404bdc2d2a708b4567",
+			"pic": {
+				"path": "CONTENT/banners/banner_usec.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5464e0454bdc2d06708b4567",
+			"pic": {
+				"path": "CONTENT/banners/banner_bear.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5803a58524597710ca36fcb2",
+			"pic": {
+				"path": "CONTENT/banners/banner_terragroup.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5807bfe124597742a92e0a4c",
+			"pic": {
+				"path": "CONTENT/banners/norvinskzone.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5807c3f124597746bf2db2ce",
+			"pic": {
+				"path": "CONTENT/banners/banner_scav.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5807be8924597742c603fa19",
+			"pic": {
+				"path": "CONTENT/banners/banner_tarkov.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5805f617245977100b2c1f41",
+			"pic": {
+				"path": "CONTENT/banners/tglabs.jpg",
+				"rcid": ""
+			}
+		},
+		{
+			"id": "5c1b857086f77465f465faa4",
+			"pic": {
+				"path": "CONTENT/banners/banner_scavraider.jpg",
+				"rcid": ""
+			}
+		}
+	]
+}

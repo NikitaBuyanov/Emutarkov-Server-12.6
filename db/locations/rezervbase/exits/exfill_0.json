@@ -1,0 +1,15 @@
+{
+	"Name": "EXFIL_Train",
+	"EntryPoints": "Common",
+	"Chance": 100,
+	"MinTime": 1500,
+	"MaxTime": 2100,
+	"PlayersCount": 0,
+	"ExfiltrationTime": 5,
+	"PassageRequirement": "Train",
+	"ExfiltrationType": "SharedTimer",
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"Id": "0",
+	"RequirementTip": "TIP IS HARDCODED",
+	"Count": 420
+}

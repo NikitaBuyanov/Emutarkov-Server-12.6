@@ -1,0 +1,131 @@
+{
+	"Id": "Lootable_00004",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd2886f77447365dbe2f",
+	"Items": [
+		{
+			"_id": "5eb3dd2886f77447365dbe2f",
+			"_tpl": "578f8782245977354405a1e3"
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe30",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 641
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe31",
+			"_tpl": "5d235b4d86f7742e017bc88a",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe32",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 742
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe33",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 805
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe34",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 882
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe35",
+			"_tpl": "5449016a4bdc2d6f028b456f",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 935
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe36",
+			"_tpl": "5bc9c049d4351e44f824d360",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": 1
+			}
+		},
+		{
+			"_id": "5eb3dd2886f77447365dbe37",
+			"_tpl": "569668774bdc2da2298b4568",
+			"parentId": "5eb3dd2886f77447365dbe2f",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 2,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 77
+			}
+		}
+	]
+}

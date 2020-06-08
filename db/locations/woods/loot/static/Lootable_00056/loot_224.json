@@ -1,0 +1,109 @@
+{
+	"Id": "Lootable_00056",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0586f7745e0347859b",
+	"Items": [
+		{
+			"_id": "5eb3dd0586f7745e0347859b",
+			"_tpl": "5909d7cf86f77470ee57d75a"
+		},
+		{
+			"_id": "5eb3dd0586f7745e0347859c",
+			"_tpl": "59ecc3dd86f7746dc827481c",
+			"parentId": "5eb3dd0586f7745e0347859b",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0586f7745e0347859d",
+			"_tpl": "57c55efc2459772d2c6271e7",
+			"parentId": "5eb3dd0586f7745e0347859b",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0586f7745e0347859e",
+			"_tpl": "57dc2fa62459775949412633",
+			"parentId": "5eb3dd0586f7745e0347859b",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0586f7745e0347859f",
+			"_tpl": "57e3dba62459770f0c32322b",
+			"parentId": "5eb3dd0586f7745e0347859e",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a0",
+			"_tpl": "57dc347d245977596754e7a1",
+			"parentId": "5eb3dd0586f7745e0347859e",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a1",
+			"_tpl": "564ca99c4bdc2d16268b4589",
+			"parentId": "5eb3dd0586f7745e0347859e",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a5",
+			"_tpl": "56dfef82d2720bbd668b4567",
+			"parentId": "5eb3dd0586f7745e034785a1",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a2",
+			"_tpl": "57dc324a24597759501edc20",
+			"parentId": "5eb3dd0586f7745e0347859e",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a3",
+			"_tpl": "57dc334d245977597164366f",
+			"parentId": "5eb3dd0586f7745e0347859e",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a4",
+			"_tpl": "59d36a0086f7747e673f3946",
+			"parentId": "5eb3dd0586f7745e0347859e",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5eb3dd0586f7745e034785a6",
+			"_tpl": "57dc32dc245977596d4ef3d3",
+			"parentId": "5eb3dd0586f7745e034785a4",
+			"slotId": "mod_handguard"
+		}
+	]
+}

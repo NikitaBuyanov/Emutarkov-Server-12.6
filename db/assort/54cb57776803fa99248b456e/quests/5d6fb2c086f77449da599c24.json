@@ -1,0 +1,57 @@
+{
+	"_id": "5d6fb2c086f77449da599c24",
+	"traderId": "54cb57776803fa99248b456e",
+	"location": "any",
+	"image": "/files/quest/icon/59c2742286f77475ec568d92.jpg",
+	"type": "Completion",
+	"isKey": false,
+	"restartable": false,
+	"min_level": 10,
+	"canShowNotificationsInGame": true,
+	"rewards": {
+		"Started": [],
+		"Success": [
+			{
+				"target": "Health",
+				"value": "200",
+				"id": "5d78cd7a86f77408b7023d42",
+				"type": "Skill",
+				"index": 0
+			}
+		],
+		"Fail": []
+	},
+	"conditions": {
+		"AvailableForStart": [
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5a68665c86f774255929b4c7",
+					"status": [4],
+					"index": 0,
+					"parentId": "",
+					"id": ""
+				}
+			}
+		],
+		"AvailableForFinish": [
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5449016a4bdc2d6f028b456f"
+					],
+					"value": "400000",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": false,
+					"index": 0,
+					"parentId": "",
+					"id": "5d6fb8a886f77449db3db8b6"
+				}
+			}
+		],
+		"Fail": []
+	}
+}

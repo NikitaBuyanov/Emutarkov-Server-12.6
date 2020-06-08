@@ -1,0 +1,15 @@
+{
+	"Name": "PP Exfil",
+	"EntryPoints": "MallSE,MallNW",
+	"Chance": 66,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 4,
+	"ExfiltrationTime": 60,
+	"PassageRequirement": "TransferItem",
+	"ExfiltrationType": "SharedTimer",
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"Id": "5449016a4bdc2d6f028b456f",
+	"RequirementTip": "EXFIL_Item",
+	"Count": 3000
+}

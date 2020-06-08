@@ -1,0 +1,25 @@
+{
+	"Id": "loot_shelter_building_items (32)10219672",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 46.2237663,
+		"y": 27.5606747,
+		"z": 161.187988
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0c86f7745df52fa2e3",
+	"Items": [
+		{
+			"_id": "5eb3dd0c86f7745df52fa2e3",
+			"_tpl": "5d1b385e86f774252167b98a"
+		}
+	]
+}

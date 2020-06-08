@@ -1,0 +1,28 @@
+{
+	"Id": "LootAmmoBoxes[0] (43)10196980",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": -158.249023,
+		"y": 7.937,
+		"z": -79.075
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 274.481964,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f474db7ec26edf352f74",
+	"Items": [
+		{
+			"_id": "5ec3f474db7ec26edf352f74",
+			"_tpl": "56dff0bed2720bb0668b4567",
+			"upd": {
+				"StackObjectsCount": 13
+			}
+		}
+	]
+}

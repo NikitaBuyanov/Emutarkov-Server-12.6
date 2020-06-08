@@ -1,0 +1,242 @@
+{
+    "_id": "5ac3460c86f7742880308185",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "location": "any",
+    "image": "/files/quest/icon/5ac4db0986f77442000164dd.jpg",
+    "type": "PickUp",
+    "isKey": false,
+    "restartable": false,
+    "min_level": 10,
+    "canShowNotificationsInGame": true,
+    "rewards": {
+        "Started": [],
+        "Success": [
+            {
+                "value": "6800",
+                "id": "5c950cee86f77455192fa443",
+                "type": "Experience",
+                "index": 0
+            },
+            {
+                "target": "5e0ac74b9d594972a112a924",
+                "value": "15000",
+                "id": "5acb7ded86f77417d079736e",
+                "type": "Item",
+                "index": 1,
+                "items": [
+                    {
+                        "_id": "5e0ac74b9d594972a112a924",
+                        "_tpl": "5449016a4bdc2d6f028b456f",
+                        "upd": {
+                            "StackObjectsCount": 15000
+                        }
+                    }
+                ]
+            },
+            {
+                "target": "5a7c2eca46aef81a7ca2145d",
+                "value": "0.03",
+                "id": "5bcf28bc86f7746a464c5691",
+                "type": "TraderStanding",
+                "index": 2
+            },
+            {
+                "target": "5e0ac74b9d594972a112a925",
+                "value": "1",
+                "id": "5ad0ab7286f774547c14e283",
+                "type": "Item",
+                "index": 3,
+                "items": [
+                    {
+                        "_id": "5841482e2459775a050cdda1",
+                        "_tpl": "57c44b372459772d2b39b8ce",
+                        "parentId": "hideout",
+                        "slotId": "hideout",
+                        "upd": {
+                            "StackObjectsCount": 1
+                        }
+                    },
+                    {
+                        "_id": "5841482e2459775a050cdda2",
+                        "_tpl": "57c44dd02459772d2e0ae249",
+                        "parentId": "5841482e2459775a050cdda1",
+                        "slotId": "mod_muzzle"
+                    },
+                    {
+                        "_id": "5841482e2459775a050cdda7",
+                        "_tpl": "57c44e7b2459772d28133248",
+                        "parentId": "5841482e2459775a050cdda2",
+                        "slotId": "mod_sight_rear"
+                    },
+                    {
+                        "_id": "5841482e2459775a050cdda3",
+                        "_tpl": "57c44f4f2459772d2c627113",
+                        "parentId": "5841482e2459775a050cdda1",
+                        "slotId": "mod_reciever"
+                    },
+                    {
+                        "_id": "5841482e2459775a050cdda4",
+                        "_tpl": "57838f9f2459774a150289a0",
+                        "parentId": "5841482e2459775a050cdda1",
+                        "slotId": "mod_magazine"
+                    },
+                    {
+                        "_id": "5841482e2459775a050cdda5",
+                        "_tpl": "57c44fa82459772d2d75e415",
+                        "parentId": "5841482e2459775a050cdda1",
+                        "slotId": "mod_pistol_grip"
+                    },
+                    {
+                        "_id": "5841482e2459775a050cdda6",
+                        "_tpl": "57c450252459772d28133253",
+                        "parentId": "5841482e2459775a050cdda1",
+                        "slotId": "mod_stock"
+                    }
+                ]
+			},
+			{
+                "target": "newReward",
+                "value": "1",
+                "id": "nixxorLens",
+                "type": "Item",
+                "index": 4,
+                "items": [
+                    {
+                        "_id": "newReward",
+                        "_tpl": "5d1b2ffd86f77425243e8d17",
+                        "upd": {
+                            "StackObjectsCount": 1
+                        }
+                    }
+                ]
+            }
+        ],
+        "Fail": []
+    },
+    "conditions": {
+        "AvailableForStart": [
+            {
+                "_parent": "Level",
+                "_props": {
+                    "compareMethod": ">=",
+                    "value": "12",
+                    "index": 0,
+                    "parentId": "",
+                    "id": "5acf3b0986f7741bb8378499"
+                }
+            },
+            {
+                "_parent": "Quest",
+                "_props": {
+                    "target": "5ac345dc86f774288030817f",
+                    "status": [
+                        4
+                    ],
+                    "index": 1,
+                    "parentId": "",
+                    "id": ""
+                }
+            }
+        ],
+        "AvailableForFinish": [
+            {
+                "_parent": "FindItem",
+                "_props": {
+                    "target": [
+                        "59e36c6f86f774176c10a2a7"
+                    ],
+                    "value": "2",
+                    "minDurability": 0,
+                    "dogtagLevel": 0,
+                    "index": 0,
+                    "parentId": "",
+                    "id": "5ac502a786f7740bde1b000c",
+                    "maxDurability": 0,
+                    "onlyFoundInRaid": true
+                }
+            },
+            {
+                "_parent": "HandoverItem",
+                "_props": {
+                    "target": [
+                        "59e36c6f86f774176c10a2a7"
+                    ],
+                    "value": "2",
+                    "minDurability": 0,
+                    "dogtagLevel": 0,
+                    "index": 1,
+                    "parentId": "",
+                    "id": "5ac5055a86f7745cae22b582",
+                    "visibilityConditions": [],
+                    "maxDurability": 0,
+                    "onlyFoundInRaid": true
+                }
+            },
+            {
+                "_parent": "FindItem",
+                "_props": {
+                    "target": [
+                        "57347cd0245977445a2d6ff1"
+                    ],
+                    "value": "4",
+                    "minDurability": 0,
+                    "dogtagLevel": 0,
+                    "index": 2,
+                    "parentId": "",
+                    "id": "5ac505c386f7740be0424d19",
+                    "onlyFoundInRaid": true
+                }
+            },
+            {
+                "_parent": "HandoverItem",
+                "_props": {
+                    "target": [
+                        "57347cd0245977445a2d6ff1"
+                    ],
+                    "value": "4",
+                    "minDurability": 0,
+                    "dogtagLevel": 0,
+                    "index": 3,
+                    "parentId": "",
+                    "id": "5ac505e186f7740bdf2ceabe",
+                    "visibilityConditions": [],
+                    "onlyFoundInRaid": true
+                }
+            },
+            {
+                "_parent": "FindItem",
+                "_props": {
+                    "target": [
+                        "590a3b0486f7743954552bdb"
+                    ],
+                    "value": "2",
+                    "minDurability": 0,
+                    "dogtagLevel": 0,
+                    "index": 4,
+                    "parentId": "",
+                    "id": "5ac5061386f77417e429ce7a",
+                    "maxDurability": 0,
+                    "onlyFoundInRaid": true
+                }
+            },
+            {
+                "_parent": "HandoverItem",
+                "_props": {
+                    "target": [
+                        "590a3b0486f7743954552bdb"
+                    ],
+                    "value": "2",
+                    "minDurability": 0,
+                    "dogtagLevel": 0,
+                    "index": 5,
+                    "parentId": "",
+                    "id": "5ac5062586f774587c327395",
+                    "visibilityConditions": [],
+                    "maxDurability": 0,
+                    "onlyFoundInRaid": true
+                }
+            }
+        ],
+        "Fail": []
+    }
+}

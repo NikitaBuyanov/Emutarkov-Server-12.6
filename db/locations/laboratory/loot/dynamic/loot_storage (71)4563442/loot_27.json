@@ -1,0 +1,25 @@
+{
+	"Id": "loot_storage (71)4563442",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -183.554,
+		"y": 1.87,
+		"z": -365.933
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd7e86f774116a421000",
+	"Items": [
+		{
+			"_id": "5eb3dd7e86f774116a421000",
+			"_tpl": "5c05300686f7746dce784e5d"
+		}
+	]
+}

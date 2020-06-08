@@ -1,0 +1,25 @@
+{
+	"Id": "loot_item_barter_flam_gasoline (45)6548144",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -105.902283,
+		"y": 5.594,
+		"z": 93.27258
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd2a86f77468595af8b5",
+	"Items": [
+		{
+			"_id": "5eb3dd2a86f77468595af8b5",
+			"_tpl": "5d1b36a186f7742523398433"
+		}
+	]
+}

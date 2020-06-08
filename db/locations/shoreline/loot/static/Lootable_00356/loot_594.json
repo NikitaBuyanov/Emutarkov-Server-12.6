@@ -1,0 +1,108 @@
+{
+	"Id": "Lootable_00356",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f45d686b7e2870344436",
+	"Items": [
+		{
+			"_id": "5ec3f45d686b7e2870344436",
+			"_tpl": "5d6d2bb386f774785b07a77a"
+		},
+		{
+			"_id": "5ec3f45d686b7e2870344437",
+			"_tpl": "560d5e524bdc2d25448b4571",
+			"parentId": "5ec3f45d686b7e2870344436",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 6
+			}
+		},
+		{
+			"_id": "5ec3f45d686b7e2870344438",
+			"_tpl": "560d5e524bdc2d25448b4571",
+			"parentId": "5ec3f45d686b7e2870344436",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 3
+			}
+		},
+		{
+			"_id": "5ec3f45d686b7e2870344439",
+			"_tpl": "57372fc52459776998772ca1",
+			"parentId": "5ec3f45d686b7e2870344436",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 1
+			}
+		},
+		{
+			"_id": "5ec3f45d686b7e287034443a",
+			"_tpl": "56dff4ecd2720b5f5a8b4568",
+			"parentId": "5ec3f45d686b7e2870344439",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "5ec3f45d686b7e287034443b",
+			"_tpl": "56dff4ecd2720b5f5a8b4568",
+			"parentId": "5ec3f45d686b7e2870344439",
+			"slotId": "cartridges",
+			"location": 1,
+			"upd": {
+				"StackObjectsCount": 60
+			}
+		},
+		{
+			"_id": "5ec3f45d686b7e287034443c",
+			"_tpl": "56dff3afd2720bba668b4567",
+			"parentId": "5ec3f45d686b7e2870344436",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 59
+			}
+		},
+		{
+			"_id": "5ec3f45d686b7e287034443d",
+			"_tpl": "5734779624597737e04bf329",
+			"parentId": "5ec3f45d686b7e2870344436",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			}
+		}
+	]
+}

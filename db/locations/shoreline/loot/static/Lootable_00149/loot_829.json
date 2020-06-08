@@ -1,0 +1,25 @@
+{
+	"Id": "Lootable_00149",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5ec3f4622dfcb75c1633ddc5",
+	"Items": [
+		{
+			"_id": "5ec3f4622dfcb75c1633ddc5",
+			"_tpl": "5909d24f86f77466f56e6855"
+		}
+	]
+}

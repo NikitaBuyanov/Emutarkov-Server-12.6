@@ -1,0 +1,25 @@
+{
+	"Id": "loot_military_veh (15)6542020",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -159.95697,
+		"y": -5.363,
+		"z": -113.751984
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 135.458725,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd4286f7745ed7113314",
+	"Items": [
+		{
+			"_id": "5eb3dd4286f7745ed7113314",
+			"_tpl": "5d0379a886f77420407aa271"
+		}
+	]
+}

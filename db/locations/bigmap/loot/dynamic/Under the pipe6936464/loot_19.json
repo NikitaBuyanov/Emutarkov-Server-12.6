@@ -1,0 +1,40 @@
+{
+	"Id": "Under the pipe6936464",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 281.4,
+		"y": -1.43,
+		"z": 31.1
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 269.1953,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd2686f77447365dbbcb",
+	"Items": [
+		{
+			"_id": "5eb3dd2686f77447365dbbcb",
+			"_tpl": "5448bd6b4bdc2dfc2f8b4569"
+		},
+		{
+			"_id": "5eb3dd2686f77447365dbbcc",
+			"_tpl": "5448c12b4bdc2d02308b456f",
+			"parentId": "5eb3dd2686f77447365dbbcb",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd2686f77447365dbbcd",
+			"_tpl": "573719762459775a626ccbc1",
+			"parentId": "5eb3dd2686f77447365dbbcc",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 4
+			}
+		}
+	]
+}

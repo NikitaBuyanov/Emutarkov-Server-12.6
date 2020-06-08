@@ -1,0 +1,25 @@
+{
+	"Id": "loot_med_super_rare (30)4560922",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -252.298,
+		"y": 4.738,
+		"z": -320.473
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd7e86f7747a1021b632",
+	"Items": [
+		{
+			"_id": "5eb3dd7e86f7747a1021b632",
+			"_tpl": "590c657e86f77412b013051d"
+		}
+	]
+}

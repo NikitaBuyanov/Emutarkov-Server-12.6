@@ -1,0 +1,14 @@
+{
+	"Name": "South V-Ex",
+	"EntryPoints": "House,Old Station",
+	"Chance": 66,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 4,
+	"ExfiltrationTime": 60,
+	"PassageRequirement": "TransferItem",
+	"ExfiltrationType": "SharedTimer",
+	"Id": "5449016a4bdc2d6f028b456f",
+	"Count": 3000,
+	"RequirementTip": "EXFIL_Item"
+}

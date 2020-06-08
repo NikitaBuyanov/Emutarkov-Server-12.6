@@ -1,0 +1,25 @@
+{
+	"Id": "loot_food_tushenka10212192",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": -135.534546,
+		"y": 27.96381,
+		"z": -123.591309
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dced86f77447365db400",
+	"Items": [
+		{
+			"_id": "5eb3dced86f77447365db400",
+			"_tpl": "57347d7224597744596b4e72"
+		}
+	]
+}

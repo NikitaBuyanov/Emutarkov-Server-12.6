@@ -1,0 +1,177 @@
+{
+	"Id": "Lootable_00188",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd8086f7747a087d8788",
+	"Items": [
+		{
+			"_id": "5eb3dd8086f7747a087d8788",
+			"_tpl": "5909d89086f77472591234a0"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8789",
+			"_tpl": "5aafa857e5b5b00018480968",
+			"parentId": "5eb3dd8086f7747a087d8788",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d878a",
+			"_tpl": "5aaf8a0be5b5b00015693243",
+			"parentId": "5eb3dd8086f7747a087d8789",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8791",
+			"_tpl": "58dd3ad986f77403051cba8f",
+			"parentId": "5eb3dd8086f7747a087d878a",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 15
+			}
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d878b",
+			"_tpl": "5aaf8e43e5b5b00015693246",
+			"parentId": "5eb3dd8086f7747a087d8789",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d878e",
+			"_tpl": "5ab24ef9e5b5b00fe93c9209",
+			"parentId": "5eb3dd8086f7747a087d878b",
+			"slotId": "mod_mount"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d878c",
+			"_tpl": "5aaf9d53e5b5b00015042a52",
+			"parentId": "5eb3dd8086f7747a087d8789",
+			"slotId": "mod_barrel"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d878f",
+			"_tpl": "5aafa1c2e5b5b00015042a56",
+			"parentId": "5eb3dd8086f7747a087d878c",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8790",
+			"_tpl": "5aafa49ae5b5b00015042a58",
+			"parentId": "5eb3dd8086f7747a087d878f",
+			"slotId": "mod_sight_front"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d878d",
+			"_tpl": "5abcbb20d8ce87001773e258",
+			"parentId": "5eb3dd8086f7747a087d8789",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8792",
+			"_tpl": "58272d7f2459774f6311ddfd",
+			"parentId": "5eb3dd8086f7747a087d8788",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 2,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8793",
+			"_tpl": "59e6687d86f77411d949b251",
+			"parentId": "5eb3dd8086f7747a087d8788",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 3,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8794",
+			"_tpl": "59e649f986f77411d949b246",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d879b",
+			"_tpl": "59e898ee86f77427614bd225",
+			"parentId": "5eb3dd8086f7747a087d8794",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8795",
+			"_tpl": "59e8a00d86f7742ad93b569c",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8796",
+			"_tpl": "59e6318286f77444dd62c4cc",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8797",
+			"_tpl": "59e6449086f7746c9f75e822",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8798",
+			"_tpl": "59e8977386f77415a553c453",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_sight_rear"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d8799",
+			"_tpl": "59e89d0986f77427600d226e",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d879a",
+			"_tpl": "59d625f086f774661516605d",
+			"parentId": "5eb3dd8086f7747a087d8793",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d879c",
+			"_tpl": "59e6542b86f77411dc52a77a",
+			"parentId": "5eb3dd8086f7747a087d879a",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 9
+			}
+		},
+		{
+			"_id": "5eb3dd8086f7747a087d879d",
+			"_tpl": "5a37cb10c4a282329a73b4e7",
+			"parentId": "5eb3dd8086f7747a087d8788",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 2,
+				"r": 0
+			}
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"_id": "wild_pmcBot_feet_offer",
+	"tid": "579dc571d53a0658a154fbec",
+	"suiteId": "wild_pmcBot_feet",
+	"isActive": true,
+	"requirements": {
+		"loyaltyLevel": 0,
+		"profileLevel": 40,
+		"standing": 0,
+		"skillRequirements": [],
+		"questRequirements": [],
+		"itemRequirements": [
+			{
+				"count": 750000,
+				"_tpl": "5449016a4bdc2d6f028b456f"
+			}
+		]
+	}
+}

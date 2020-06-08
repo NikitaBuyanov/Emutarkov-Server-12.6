@@ -1,0 +1,15 @@
+{
+	"Name": "Elevator",
+	"EntryPoints": "House,Houseb",
+	"Chance": 100,
+	"MinTime": 0,
+	"MaxTime": 0,
+	"PlayersCount": 3,
+	"ExfiltrationTime": 10,
+	"PassageRequirement": "None",
+	"ExfiltrationType": "Individual",
+	"RequiredSlot": "FirstPrimaryWeapon",
+	"Id": "",
+	"RequirementTip": "",
+	"Count": 0
+}

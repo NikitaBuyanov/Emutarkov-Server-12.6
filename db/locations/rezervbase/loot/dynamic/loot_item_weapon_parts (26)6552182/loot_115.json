@@ -1,0 +1,25 @@
+{
+	"Id": "loot_item_weapon_parts (26)6552182",
+	"IsStatic": false,
+	"useGravity": true,
+	"randomRotation": true,
+	"Position": {
+		"x": 73.1400146,
+		"y": -5.527,
+		"z": -40.22
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dcf986f77468595ae894",
+	"Items": [
+		{
+			"_id": "5eb3dcf986f77468595ae894",
+			"_tpl": "5d1c819a86f774771b0acd6c"
+		}
+	]
+}

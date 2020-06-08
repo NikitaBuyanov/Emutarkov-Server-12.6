@@ -1,0 +1,19 @@
+{
+	"_id": "wild_security_body_2_offer",
+	"tid": "579dc571d53a0658a154fbec",
+	"suiteId": "wild_security_body_2",
+	"isActive": true,
+	"requirements": {
+		"loyaltyLevel": 0,
+		"profileLevel": 20,
+		"standing": 0,
+		"skillRequirements": [],
+		"questRequirements": [],
+		"itemRequirements": [
+			{
+				"count": 1500,
+				"_tpl": "569668774bdc2da2298b4568"
+			}
+		]
+	}
+}

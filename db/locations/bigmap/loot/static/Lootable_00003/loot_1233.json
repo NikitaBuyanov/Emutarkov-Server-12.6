@@ -1,0 +1,115 @@
+{
+	"Id": "Lootable_00003",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0286f77474b810670d",
+	"Items": [
+		{
+			"_id": "5eb3dd0286f77474b810670d",
+			"_tpl": "578f87ad245977356274f2cc"
+		},
+		{
+			"_id": "5eb3dd0286f77474b810670e",
+			"_tpl": "583990e32459771419544dd2",
+			"parentId": "5eb3dd0286f77474b810670d",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0286f77474b810670f",
+			"_tpl": "5649ad3f4bdc2df8348b4585",
+			"parentId": "5eb3dd0286f77474b810670e",
+			"slotId": "mod_pistol_grip"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106710",
+			"_tpl": "57dc347d245977596754e7a1",
+			"parentId": "5eb3dd0286f77474b810670e",
+			"slotId": "mod_stock"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106711",
+			"_tpl": "564ca99c4bdc2d16268b4589",
+			"parentId": "5eb3dd0286f77474b810670e",
+			"slotId": "mod_magazine"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106715",
+			"_tpl": "56dfef82d2720bbd668b4567",
+			"parentId": "5eb3dd0286f77474b8106711",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106712",
+			"_tpl": "57dc324a24597759501edc20",
+			"parentId": "5eb3dd0286f77474b810670e",
+			"slotId": "mod_muzzle"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106713",
+			"_tpl": "57dc334d245977597164366f",
+			"parentId": "5eb3dd0286f77474b810670e",
+			"slotId": "mod_reciever"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106714",
+			"_tpl": "59d36a0086f7747e673f3946",
+			"parentId": "5eb3dd0286f77474b810670e",
+			"slotId": "mod_gas_block"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106716",
+			"_tpl": "57dc32dc245977596d4ef3d3",
+			"parentId": "5eb3dd0286f77474b8106714",
+			"slotId": "mod_handguard"
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106717",
+			"_tpl": "5656d7c34bdc2d9d198b4587",
+			"parentId": "5eb3dd0286f77474b810670d",
+			"slotId": "main",
+			"location": {
+				"x": 4,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 8
+			}
+		},
+		{
+			"_id": "5eb3dd0286f77474b8106718",
+			"_tpl": "56dff3afd2720bba668b4567",
+			"parentId": "5eb3dd0286f77474b810670d",
+			"slotId": "main",
+			"location": {
+				"x": 4,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 13
+			}
+		}
+	]
+}

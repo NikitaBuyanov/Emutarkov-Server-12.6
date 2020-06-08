@@ -1,0 +1,107 @@
+{
+	"Id": "Lootable_00045",
+	"IsStatic": true,
+	"useGravity": true,
+	"randomRotation": false,
+	"Position": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"Rotation": {
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"IsGroupPosition": false,
+	"GroupPositions": [],
+	"Root": "5eb3dd0486f7745e034784b7",
+	"Items": [
+		{
+			"_id": "5eb3dd0486f7745e034784b7",
+			"_tpl": "5909d45286f77465a8136dc6"
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784b8",
+			"_tpl": "5c11279ad174af029d64592b",
+			"parentId": "5eb3dd0486f7745e034784b7",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 0,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784b9",
+			"_tpl": "5c0d5ae286f7741e46554302",
+			"parentId": "5eb3dd0486f7745e034784b8",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 20
+			}
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784ba",
+			"_tpl": "56dff0bed2720bb0668b4567",
+			"parentId": "5eb3dd0486f7745e034784b7",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 5
+			}
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784bb",
+			"_tpl": "5656d7c34bdc2d9d198b4587",
+			"parentId": "5eb3dd0486f7745e034784b7",
+			"slotId": "main",
+			"location": {
+				"x": 2,
+				"y": 0,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 10
+			}
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784bc",
+			"_tpl": "57372bd3245977670b7cd243",
+			"parentId": "5eb3dd0486f7745e034784b7",
+			"slotId": "main",
+			"location": {
+				"x": 0,
+				"y": 1,
+				"r": 0
+			}
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784bd",
+			"_tpl": "56dff026d2720bb8668b4567",
+			"parentId": "5eb3dd0486f7745e034784bc",
+			"slotId": "cartridges",
+			"upd": {
+				"StackObjectsCount": 30
+			}
+		},
+		{
+			"_id": "5eb3dd0486f7745e034784be",
+			"_tpl": "573601b42459776410737435",
+			"parentId": "5eb3dd0486f7745e034784b7",
+			"slotId": "main",
+			"location": {
+				"x": 1,
+				"y": 1,
+				"r": 0
+			},
+			"upd": {
+				"StackObjectsCount": 20
+			}
+		}
+	]
+}

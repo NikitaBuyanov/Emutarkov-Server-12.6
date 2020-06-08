@@ -1,0 +1,1134 @@
+{
+	"_id": "5c51aac186f77432ea65c552",
+	"traderId": "579dc571d53a0658a154fbec",
+	"location": "any",
+	"image": "/files/quest/icon/5c7eb06188a4504aae56deb7.jpg",
+	"type": "PickUp",
+	"isKey": false,
+	"restartable": false,
+	"min_level": 0,
+	"canShowNotificationsInGame": false,
+	"rewards": {
+		"Started": [],
+		"Success": [
+			{
+				"target": "5d34df2788a4504526796dec",
+				"value": "1",
+				"id": "5c51c28a86f77478be4009fa",
+				"type": "Item",
+				"index": 0,
+				"unknown": true,
+				"items": [
+					{
+						"_id": "5d34df2788a4504526796dec",
+						"_tpl": "5c093ca986f7740a1867ab12",
+						"upd": {
+							"StackObjectsCount": 1
+						}
+					}
+				]
+			}
+		],
+		"Fail": []
+	},
+	"conditions": {
+		"AvailableForStart": [
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "59674cd986f7744ab26e32f2",
+					"status": [4],
+					"index": 0,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "596760e186f7741e11214d58",
+					"status": [4],
+					"index": 1,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c12452c86f7744b83469073",
+					"status": [4],
+					"index": 2,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0bd01e86f7747cdd799e56",
+					"status": [4],
+					"index": 3,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0bd94186f7747a727f09b2",
+					"status": [4],
+					"index": 4,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "59ca2eb686f77445a80ed049",
+					"status": [4],
+					"index": 5,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5968eb3186f7741dde183a4d",
+					"status": [4],
+					"index": 6,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "596a1e6c86f7741ddc2d3206",
+					"status": [4],
+					"index": 8,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0d0d5086f774363760aef2",
+					"status": [4],
+					"index": 10,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0d1c4cd0928202a02a6f5c",
+					"status": [4],
+					"index": 11,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "597a0e5786f77426d66c0636",
+					"status": [4],
+					"index": 12,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5b478ff486f7744d184ecbbf",
+					"status": [4],
+					"index": 14,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0bdb5286f774166e38eed4",
+					"status": [4],
+					"index": 15,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0bc91486f7746ab41857a2",
+					"status": [4],
+					"index": 16,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c1234c286f77406fa13baeb",
+					"status": [4],
+					"index": 17,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0d4c12d09282029f539173",
+					"status": [4],
+					"index": 18,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5a27ba1c86f77461ea5a3c56",
+					"status": [4],
+					"index": 19,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5a27bb5986f7741dfb660900",
+					"status": [4],
+					"index": 20,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0d4e61d09282029f53920e",
+					"status": [4],
+					"index": 22,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0be13186f7746f016734aa",
+					"status": [4],
+					"index": 23,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ac3475486f7741d6224abd3",
+					"status": [4],
+					"index": 24,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c139eb686f7747878361a6f",
+					"status": [4],
+					"index": 25,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c0bde0986f77479cf22c2f8",
+					"status": [4],
+					"index": 26,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ac3479086f7742880308199",
+					"status": [4],
+					"index": 27,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ac3477486f7741d651d6885",
+					"status": [4],
+					"index": 28,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ac346e886f7741d6118b99b",
+					"status": [4],
+					"index": 29,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5b47825886f77468074618d3",
+					"status": [4],
+					"index": 30,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ae448bf86f7744d733e55ee",
+					"status": [4],
+					"index": 31,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ae449d986f774453a54a7e1",
+					"status": [4],
+					"index": 32,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c112d7e86f7740d6f647486",
+					"status": [4],
+					"index": 33,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5b478d0f86f7744d190d91b5",
+					"status": [4],
+					"index": 34,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ae449a586f7744bde357696",
+					"status": [4],
+					"index": 35,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c1141f386f77430ff393792",
+					"status": [4],
+					"index": 36,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5bc4893c86f774626f5ebf3e",
+					"status": [4],
+					"index": 37,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e4b786f77408251c4bfc",
+					"status": [4],
+					"index": 38,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e43786f7740a212217fa",
+					"status": [4],
+					"index": 41,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e45e86f77408251c4bfa",
+					"status": [4],
+					"index": 42,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e4ca86f77409dd5cdf2c",
+					"status": [4],
+					"index": 43,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e4d586f77443e625e388",
+					"status": [4],
+					"index": 44,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e4ad86f77443e625e387",
+					"status": [4],
+					"index": 45,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e29d86f7740a22516326",
+					"status": [4],
+					"index": 46,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e2a986f77409dd5cdf2a",
+					"status": [4],
+					"index": 47,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e46e86f77409453bce7c",
+					"status": [4],
+					"index": 48,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25aed386f77442734d25d2",
+					"status": [4],
+					"index": 49,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e48d86f77408251c4bfb",
+					"status": [4],
+					"index": 50,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d6fb2c086f77449da599c24",
+					"status": [4],
+					"index": 51,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5ae4499a86f77449783815db",
+					"status": [4],
+					"index": 52,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5a5642ce86f77445c63c3419",
+					"status": [4],
+					"index": 53,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e4ca86f77409dd5cdf2c",
+					"status": [4],
+					"index": 54,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e2d886f77442734d335e",
+					"status": [4],
+					"index": 55,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d25e44386f77409453bce7b",
+					"status": [4],
+					"index": 55,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5c139eb686f7747878361a6f",
+					"status": [4],
+					"index": 56,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d6fbc2886f77449d825f9d3",
+					"status": [4],
+					"index": 57,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "59ca1a6286f774509a270942",
+					"status": [4],
+					"index": 58,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5d4bec3486f7743cac246665",
+					"status": [4],
+					"index": 59,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5e381b0286f77420e3417a74",
+					"status": [4],
+					"index": 60,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "5e4d515e86f77438b2195244",
+					"status": [4],
+					"index": 61,
+					"parentId": "",
+					"id": ""
+				}
+			},
+			{
+				"_parent": "Quest",
+				"_props": {
+					"target": "59c9392986f7742f6923add2",
+					"status": [4],
+					"index": 62,
+					"parentId": "",
+					"id": ""
+				}
+			}
+		],
+		"AvailableForFinish": [
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9c377d4351e3bac12251b"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 0,
+					"parentId": "",
+					"id": "5cb5ddd386f7746ef72a7e73"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9c377d4351e3bac12251b"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 1,
+					"parentId": "",
+					"id": "5c52da1086f7742fbb42a814",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9c1e2d4351e00367fbcf0"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 2,
+					"parentId": "",
+					"id": "5cb5dde786f7746ef451bd74"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9c1e2d4351e00367fbcf0"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 3,
+					"parentId": "",
+					"id": "5c52da5886f7747364267a14",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9c049d4351e44f824d360"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 4,
+					"parentId": "",
+					"id": "5cb5de0086f7746ef82c17e4"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9c049d4351e44f824d360"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 5,
+					"parentId": "",
+					"id": "5c51bed886f77478bb033461",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9b355d4351e6d1509862a"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 6,
+					"parentId": "",
+					"id": "5cb5de1786f7747d215eca04"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9b355d4351e6d1509862a"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 7,
+					"parentId": "",
+					"id": "5c51bf8786f77416a11e5cb2",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9bc53d4351e00367fbcee"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 8,
+					"parentId": "",
+					"id": "5cb5de9c86f7746ef55dbc86"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9bc53d4351e00367fbcee"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 9,
+					"parentId": "",
+					"id": "5c51bf9a86f77478bf5632aa",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9bdb8d4351e003562b8a1"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 10,
+					"parentId": "",
+					"id": "5cb5deae86f7746ef451bd76"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9bdb8d4351e003562b8a1"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 11,
+					"parentId": "",
+					"id": "5c51bfb186f77478bd516d37",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9b9ecd4351e3bac122519"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 12,
+					"parentId": "",
+					"id": "5cb5debf86f7746ef72a7e78"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9b9ecd4351e3bac122519"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 13,
+					"parentId": "",
+					"id": "5c51bfc286f77478bc7ae1d9",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9b720d4351e450201234b"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 14,
+					"parentId": "",
+					"id": "5cb5ded886f7746ef451bd77"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9b720d4351e450201234b"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 15,
+					"parentId": "",
+					"id": "5c51c03186f7740ada3f2c3d",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9b156d4351e00367fbce9"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 16,
+					"parentId": "",
+					"id": "5cb5dee986f7746ef82c17e7"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9b156d4351e00367fbce9"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 17,
+					"parentId": "",
+					"id": "5c51c04286f77478be4009f5",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bc9c29cd4351e003562b8a3"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 18,
+					"parentId": "",
+					"id": "5cb5df5586f7746ef82c17e8"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bc9c29cd4351e003562b8a3"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 19,
+					"parentId": "",
+					"id": "5c51c23a86f77478bb033466",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bd073a586f7747e6f135799"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 20,
+					"parentId": "",
+					"id": "5cb5df7186f7747d215eca08"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bd073a586f7747e6f135799"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 21,
+					"parentId": "",
+					"id": "5c51c24c86f77416a11e5cb7",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5bd073c986f7747f627e796c"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 22,
+					"parentId": "",
+					"id": "5cb5df8486f7746ef82c17ea"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5bd073c986f7747f627e796c"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 23,
+					"parentId": "",
+					"id": "5c51c25c86f77478bf5632af",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e54f62086f774219b0f1937"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 24,
+					"parentId": "",
+					"id": "5de798b233870205123c7f33"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e54f62086f774219b0f1937"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 25,
+					"parentId": "",
+					"id": "5c51db2a86f77478be4009ff",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e54f6af86f7742199090bf3"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 26,
+					"parentId": "",
+					"id": "5ec798b8254c431289542b90"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e54f6af86f7742199090bf3"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 27,
+					"parentId": "",
+					"id": "5c52b92e86f77478be400a00",
+					"onlyFoundInRaid": true
+				}
+			},
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e54f76986f7740366043752"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 28,
+					"parentId": "",
+					"id": "5ec798b8254c431289542b90"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e54f76986f7740366043752"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 29,
+					"parentId": "",
+					"id": "5c52bb0586f774119c51f7f2",
+					"onlyFoundInRaid": true
+				}
+			},
+
+			{
+				"_parent": "FindItem",
+				"_props": {
+					"target": [
+						"5e54f79686f7744022011103"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"onlyFoundInRaid": true,
+					"index": 30,
+					"parentId": "",
+					"id": "5ec79aaac1683c0db84484e8"
+				}
+			},
+			{
+				"_parent": "HandoverItem",
+				"_props": {
+					"target": [
+						"5e54f79686f7744022011103"
+					],
+					"value": "1",
+					"minDurability": 0,
+					"maxDurability": 0,
+					"dogtagLevel": 0,
+					"index": 31,
+					"parentId": "",
+					"id": "5c52bb6486f774119d57d3c2",
+					"onlyFoundInRaid": true
+				}
+			}
+		],
+		"Fail": []
+	}
+}
